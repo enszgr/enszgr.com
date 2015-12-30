@@ -1,0 +1,1616 @@
+.version.index /* version checker */
+{
+	color: #0000FD;
+	background-color: #9AFD10;
+}
+
+.html
+{
+	background-color: #F2B03D;
+	background: -webkit-gradient(linear, left center, right center, from(#F2B03D),color-stop(100%, #F7CE16));
+	background: -webkit-linear-gradient(left,#F2B03D ,#F7CE16 100%);
+	background: linear-gradient(to right,#F2B03D ,#F7CE16 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2B03D, endColorstr=#FFF7CE16, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2B03D', endColorstr='#FFF7CE16', GradientType=1)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 950px;
+	min-height: 2751.6px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 100px;
+	padding-bottom: 101px;
+	width: 0.01px;
+}
+
+#pu796
+{
+	width: 0.01px;
+	margin-left: -209px;
+}
+
+#u796
+{
+	z-index: 37;
+	width: 100px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 100px;
+}
+
+#ppu732
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 209px;
+}
+
+#pu732
+{
+	width: 0.01px;
+	margin-left: 30px;
+}
+
+#u732
+{
+	z-index: 38;
+	width: 90px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+}
+
+#buttonu1717
+{
+	z-index: 36;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 130px;
+	background: #412863 url("../images/slack_1-iebuttonu1717-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/slack_1.jpg") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1717:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #3B0E38 url("../images/slack_2-iebuttonu1717-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/slack_2.jpg") no-repeat center center;
+	background-color: #3B0E38;
+	background-size: cover;
+}
+
+#buttonu1717.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #412863 url("../images/slack_1-iebuttonu1717-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/slack_1.jpg") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1895
+{
+	z-index: 34;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	margin-top: 10px;
+	position: relative;
+	background: #424144 url("../images/love_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1895:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 10px 0px 0px;
+	background: #3A3A3A url("../images/love_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1895.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 10px 0px 0px;
+	background: #424144 url("../images/love_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1895:hover
+{
+	background-image: url("../images/love_2_2x.jpg");
+}
+
+.hidpi #buttonu1895,.hidpi #buttonu1895.ButtonSelected
+{
+	background-image: url("../images/love_1_2x.jpg");
+}
+
+#pbuttonu1608
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 689px;
+}
+
+#buttonu1608
+{
+	z-index: 35;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	background: #412863 url("../images/follow2-iebuttonu1608-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/follow2.gif") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1608:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px;
+	background: #680CD1 url("../images/follow-iebuttonu1608-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/follow.jpg") no-repeat center center;
+	background-color: #680CD1;
+	background-size: cover;
+}
+
+#buttonu1608.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px;
+	background: #412863 url("../images/follow2-iebuttonu1608-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/follow2.gif") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1806
+{
+	z-index: 33;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	margin-top: 10px;
+	position: relative;
+	background: #7B746A url("../images/awake_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1806:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 10px 0px 0px;
+	background: #7A756A url("../images/awake_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1806.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 10px 0px 0px;
+	background: #7B746A url("../images/awake_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1806:hover
+{
+	background-image: url("../images/awake_2_2x.jpg");
+}
+
+.hidpi #buttonu1806,.hidpi #buttonu1806.ButtonSelected
+{
+	background-image: url("../images/awake_1_2x.jpg");
+}
+
+#buttonu1462
+{
+	z-index: 32;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #412863 url("../images/eki_1-iebuttonu1462-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/eki_1.jpg") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1462:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #412863 url("../images/eki_2-iebuttonu1462-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/eki_2.jpg") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1462.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #412863 url("../images/eki_1-iebuttonu1462-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/eki_1.jpg") no-repeat center center;
+	background-color: #412863;
+	background-size: cover;
+}
+
+#buttonu1848
+{
+	z-index: 31;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #8152A1 url("../images/pray_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1848:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #8152A1 url("../images/pray_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1848.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #8152A1 url("../images/pray_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1848:hover
+{
+	background-image: url("../images/pray_2_2x.jpg");
+}
+
+.hidpi #buttonu1848,.hidpi #buttonu1848.ButtonSelected
+{
+	background-image: url("../images/pray_1_2x.jpg");
+}
+
+#buttonu1881
+{
+	z-index: 30;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #9E43A8 url("../images/sins_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1881:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #A043A9 url("../images/sins_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1881.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #9E43A8 url("../images/sins_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1881:hover
+{
+	background-image: url("../images/sins_2_2x.jpg");
+}
+
+.hidpi #buttonu1881,.hidpi #buttonu1881.ButtonSelected
+{
+	background-image: url("../images/sins_1_2x.jpg");
+}
+
+#buttonu2056
+{
+	z-index: 29;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+	background: #FFCD08 url("../images/bul_1-iebuttonu2056-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bul_1.jpg") no-repeat center center;
+	background-color: #FFCD08;
+	background-size: cover;
+}
+
+#buttonu2056:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFCD08 url("../images/bul_2-iebuttonu2056-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bul_2.jpg") no-repeat center center;
+	background-color: #FFCD08;
+	background-size: cover;
+}
+
+#buttonu2056.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFCD08 url("../images/bul_1-iebuttonu2056-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bul_1.jpg") no-repeat center center;
+	background-color: #FFCD08;
+	background-size: cover;
+}
+
+#buttonu1779
+{
+	z-index: 28;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #373034 url("../images/phamsa_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1779:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #373034 url("../images/phamsa_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1779.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #373034 url("../images/phamsa_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1779:hover
+{
+	background-image: url("../images/phamsa_2_2x.jpg");
+}
+
+.hidpi #buttonu1779,.hidpi #buttonu1779.ButtonSelected
+{
+	background-image: url("../images/phamsa_1_2x.jpg");
+}
+
+#buttonu1765
+{
+	z-index: 27;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+	background: #B09076 url("../images/avenge_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1765:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #B09076 url("../images/avenge_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1765.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #B09076 url("../images/avenge_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1765:hover
+{
+	background-image: url("../images/avenge_2_2x.jpg");
+}
+
+.hidpi #buttonu1765,.hidpi #buttonu1765.ButtonSelected
+{
+	background-image: url("../images/avenge_1_2x.jpg");
+}
+
+#buttonu1971
+{
+	z-index: 26;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #131413 url("../images/smaug_1-iebuttonu1971-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/smaug_1.jpg") no-repeat center center;
+	background-color: #131413;
+	background-size: cover;
+}
+
+#buttonu1971:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #0C1A25 url("../images/smaug_2-iebuttonu1971-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/smaug_2.jpg") no-repeat center center;
+	background-color: #0C1A25;
+	background-size: cover;
+}
+
+#buttonu1971.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #131413 url("../images/smaug_1-iebuttonu1971-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/smaug_1.jpg") no-repeat center center;
+	background-color: #131413;
+	background-size: cover;
+}
+
+#buttonu2135
+{
+	z-index: 25;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #F0F0EE url("../images/zabit2_1-iebuttonu2135-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/zabit2_1.jpg") no-repeat center center;
+	background-color: #F0F0EE;
+	background-size: cover;
+}
+
+#buttonu2135:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #F0F0EE url("../images/zabit2_2-iebuttonu2135-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/zabit2_2.jpg") no-repeat center center;
+	background-color: #F0F0EE;
+	background-size: cover;
+}
+
+#buttonu2135.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #F0F0EE url("../images/zabit2_1-iebuttonu2135-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/zabit2_1.jpg") no-repeat center center;
+	background-color: #F0F0EE;
+	background-size: cover;
+}
+
+#buttonu2082
+{
+	z-index: 24;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 640px;
+	background: #BDC8CD url("../images/annual_1-iebuttonu2082-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/annual_1.jpg") no-repeat center center;
+	background-color: #BDC8CD;
+	background-size: cover;
+}
+
+#buttonu2082:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: #BDC8CD url("../images/annual_2-iebuttonu2082-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/annual_2.jpg") no-repeat center center;
+	background-color: #BDC8CD;
+	background-size: cover;
+}
+
+#buttonu2082.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: #BDC8CD url("../images/annual_1-iebuttonu2082-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/annual_1.jpg") no-repeat center center;
+	background-color: #BDC8CD;
+	background-size: cover;
+}
+
+#buttonu1820
+{
+	z-index: 23;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #131213 url("../images/hobbit_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1820:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #131213 url("../images/hobbit_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1820.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #131213 url("../images/hobbit_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1820:hover
+{
+	background-image: url("../images/hobbit_2_2x.jpg");
+}
+
+.hidpi #buttonu1820,.hidpi #buttonu1820.ButtonSelected
+{
+	background-image: url("../images/hobbit_1_2x.jpg");
+}
+
+#buttonu2121
+{
+	z-index: 22;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+	background: #212A2F url("../images/zabit1_1-iebuttonu2121-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/zabit1_1.jpg") no-repeat center center;
+	background-color: #212A2F;
+	background-size: cover;
+}
+
+#buttonu2121:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #212A2F url("../images/zabit1_2-iebuttonu2121-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/zabit1_2.jpg") no-repeat center center;
+	background-color: #212A2F;
+	background-size: cover;
+}
+
+#buttonu2121.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #212A2F url("../images/zabit1_1-iebuttonu2121-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/zabit1_1.jpg") no-repeat center center;
+	background-color: #212A2F;
+	background-size: cover;
+}
+
+#buttonu2014
+{
+	z-index: 21;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #EE9200 url("../images/samer_1-iebuttonu2014-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/samer_1.jpg") no-repeat center center;
+	background-color: #EE9200;
+	background-size: cover;
+}
+
+#buttonu2014:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #EE9200 url("../images/samer_2-iebuttonu2014-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/samer_2.jpg") no-repeat center center;
+	background-color: #EE9200;
+	background-size: cover;
+}
+
+#buttonu2014.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #EE9200 url("../images/samer_1-iebuttonu2014-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/samer_1.jpg") no-repeat center center;
+	background-color: #EE9200;
+	background-size: cover;
+}
+
+#buttonu1985
+{
+	z-index: 20;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #7B9278 url("../images/mech_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1985:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #DEA117 url("../images/mech_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1985.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #7B9278 url("../images/mech_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1985:hover
+{
+	background-image: url("../images/mech_2_2x.jpg");
+}
+
+.hidpi #buttonu1985,.hidpi #buttonu1985.ButtonSelected
+{
+	background-image: url("../images/mech_1_2x.jpg");
+}
+
+#buttonu1792
+{
+	z-index: 19;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #E83113 url("../images/rank_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1792:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #E83113 url("../images/rank_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1792.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #E83113 url("../images/rank_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1792:hover
+{
+	background-image: url("../images/rank_2_2x.jpg");
+}
+
+.hidpi #buttonu1792,.hidpi #buttonu1792.ButtonSelected
+{
+	background-image: url("../images/rank_1_2x.jpg");
+}
+
+#buttonu2028
+{
+	z-index: 18;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+	background: #FFFFFF url("../images/read_1-iebuttonu2028-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/read_1.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#buttonu2028:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/read_2-iebuttonu2028-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/read_2.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#buttonu2028.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/read_1-iebuttonu2028-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/read_1.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#buttonu2101
+{
+	z-index: 17;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #CF7426 url("../images/bahar_1-iebuttonu2101-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bahar_1.jpg") no-repeat center center;
+	background-color: #CF7426;
+	background-size: cover;
+}
+
+#buttonu2101:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #CF7426 url("../images/bahar_2-iebuttonu2101-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bahar_2.jpg") no-repeat center center;
+	background-color: #CF7426;
+	background-size: cover;
+}
+
+#buttonu2101.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #CF7426 url("../images/bahar_1-iebuttonu2101-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/bahar_1.jpg") no-repeat center center;
+	background-color: #CF7426;
+	background-size: cover;
+}
+
+#buttonu2042
+{
+	z-index: 16;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #FFFFFF url("../images/war_1-iebuttonu2042-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/war_1.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#buttonu2042:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/war_2-iebuttonu2042-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/war_2.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#buttonu2042.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/war_1-iebuttonu2042-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/war_1.jpg") no-repeat center center;
+	background-color: #FFFFFF;
+	background-size: cover;
+}
+
+#buttonu1156
+{
+	z-index: 15;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 640px;
+	background: #383245 url("../images/hotspot_1-iebuttonu1156-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/hotspot_1.jpg") no-repeat center center;
+	background-color: #383245;
+	background-size: cover;
+}
+
+#buttonu1156:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #383245 url("../images/hotspot_2-iebuttonu1156-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/hotspot_2.jpg") no-repeat center center;
+	background-color: #383245;
+	background-size: cover;
+}
+
+#buttonu1156.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #383245 url("../images/hotspot_1-iebuttonu1156-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/hotspot_1.jpg") no-repeat center center;
+	background-color: #383245;
+	background-size: cover;
+}
+
+#buttonu876
+{
+	z-index: 14;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #6045CD url("../images/light_wood_1-iebuttonu876-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/light_wood_1.jpg") no-repeat center center;
+	background-color: #6045CD;
+	background-size: cover;
+}
+
+#buttonu876:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #6045CD url("../images/light_wood_2-iebuttonu876-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/light_wood_2.jpg") no-repeat center center;
+	background-color: #6045CD;
+	background-size: cover;
+}
+
+#buttonu876.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #6045CD url("../images/light_wood_1-iebuttonu876-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/light_wood_1.jpg") no-repeat center center;
+	background-color: #6045CD;
+	background-size: cover;
+}
+
+#buttonu1130
+{
+	z-index: 13;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #6CBCD4 url("../images/fl_1-iebuttonu1130-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/fl_1.jpg") no-repeat center center;
+	background-color: #6CBCD4;
+	background-size: cover;
+}
+
+#buttonu1130:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #2AEFC5 url("../images/fl_2-iebuttonu1130-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/fl_2.jpg") no-repeat center center;
+	background-color: #2AEFC5;
+	background-size: cover;
+}
+
+#buttonu1130.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #6CBCD4 url("../images/fl_1-iebuttonu1130-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/fl_1.jpg") no-repeat center center;
+	background-color: #6CBCD4;
+	background-size: cover;
+}
+
+#buttonu913
+{
+	z-index: 12;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 640px;
+	background: #36568D url("../images/steam_1-iebuttonu913-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/steam_1.jpg") no-repeat center center;
+	background-color: #36568D;
+	background-size: cover;
+}
+
+#buttonu913:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #36568D url("../images/steam_2-iebuttonu913-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/steam_2.jpg") no-repeat center center;
+	background-color: #36568D;
+	background-size: cover;
+}
+
+#buttonu913.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #36568D url("../images/steam_1-iebuttonu913-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/steam_1.jpg") no-repeat center center;
+	background-color: #36568D;
+	background-size: cover;
+}
+
+#pbuttonu1999
+{
+	width: 0.01px;
+	margin-top: 11px;
+}
+
+#buttonu1999
+{
+	z-index: 11;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #DD4830 url("../images/cakici_1-iebuttonu1999-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/cakici_1.jpg") no-repeat center center;
+	background-color: #DD4830;
+	background-size: cover;
+}
+
+#buttonu1999:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #DD4830 url("../images/cakici_2-iebuttonu1999-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/cakici_2.jpg") no-repeat center center;
+	background-color: #DD4830;
+	background-size: cover;
+}
+
+#buttonu1999.ButtonSelected
+{
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #DD4830 url("../images/cakici_1-iebuttonu1999-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/cakici_1.jpg") no-repeat center center;
+	background-color: #DD4830;
+	background-size: cover;
+}
+
+#buttonu1834
+{
+	z-index: 10;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #18191D url("../images/padme_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1834:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #18191D url("../images/padme_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1834.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #18191D url("../images/padme_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1834:hover
+{
+	background-image: url("../images/padme_2_2x.jpg");
+}
+
+.hidpi #buttonu1834,.hidpi #buttonu1834.ButtonSelected
+{
+	background-image: url("../images/padme_1_2x.jpg");
+}
+
+#buttonu1861
+{
+	z-index: 9;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #000204 url("../images/quor_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1861:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #000204 url("../images/quor_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1861.ButtonSelected
+{
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #000204 url("../images/quor_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1861:hover
+{
+	background-image: url("../images/quor_2_2x.jpg");
+}
+
+.hidpi #buttonu1861,.hidpi #buttonu1861.ButtonSelected
+{
+	background-image: url("../images/quor_1_2x.jpg");
+}
+
+#buttonu1731
+{
+	z-index: 8;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 475px;
+	background: #7F7F7F url("../images/cinayet_1-iebuttonu1731-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/cinayet_1.jpg") no-repeat center center;
+	background-color: #7F7F7F;
+	background-size: cover;
+}
+
+#buttonu1731:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #8B8B8B url("../images/cinayet_2-iebuttonu1731-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/cinayet_2.jpg") no-repeat center center;
+	background-color: #8B8B8B;
+	background-size: cover;
+}
+
+#buttonu1750
+{
+	z-index: 7;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #7F7F7F url("../images/air_1-iebuttonu1750-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/air_1.jpg") no-repeat center center;
+	background-color: #7F7F7F;
+	background-size: cover;
+}
+
+#buttonu1750:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #0C1A25 url("../images/air_2-iebuttonu1750-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/air_2.jpg") no-repeat center center;
+	background-color: #0C1A25;
+	background-size: cover;
+}
+
+#buttonu891
+{
+	z-index: 6;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 320px;
+	background: #FFFFFF url("../images/spider_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu891:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #FFFFFF url("../images/spider_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu891
+{
+	background-image: url("../images/spider_1_2x.jpg");
+}
+
+.hidpi #buttonu891:hover
+{
+	background-image: url("../images/spider_2_2x.jpg");
+}
+
+#buttonu1915
+{
+	z-index: 5;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #E9A918 url("../images/zebra_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu1915:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #DEA117 url("../images/zebra_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu1915
+{
+	background-image: url("../images/zebra_1_2x.jpg");
+}
+
+.hidpi #buttonu1915:hover
+{
+	background-image: url("../images/zebra_2_2x.jpg");
+}
+
+#buttonu2069
+{
+	z-index: 4;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+	background: #F3F3F3 url("../images/pangea_1-iebuttonu2069-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/pangea_1.jpg") no-repeat center center;
+	background-color: #F3F3F3;
+	background-size: cover;
+}
+
+#buttonu2069:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #F3F3F3 url("../images/pangea_2-iebuttonu2069-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/pangea_2.jpg") no-repeat center center;
+	background-color: #F3F3F3;
+	background-size: cover;
+}
+
+#pbuttonu1462,#pbuttonu1881,#pbuttonu1779,#pbuttonu1971,#pbuttonu1820,#pbuttonu2014,#pbuttonu1792,#pbuttonu2101,#pbuttonu876,#pbuttonu1861,#pbuttonu1750,#pbuttonu1915,#pbuttonu802
+{
+	width: 0.01px;
+	margin-top: 10px;
+}
+
+#buttonu802
+{
+	z-index: 3;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: #B61421 url("../images/last_sunset1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu802:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #B61421 url("../images/last_sunset2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu802
+{
+	background-image: url("../images/last_sunset1_2x.jpg");
+}
+
+.hidpi #buttonu802:hover
+{
+	background-image: url("../images/last_sunset2_2x.jpg");
+}
+
+#buttonu793
+{
+	z-index: 2;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 480px;
+	background: #F7C90D url("../images/leo1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu793:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #F7C90D url("../images/leo2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu793
+{
+	background-image: url("../images/leo1_2x.jpg");
+}
+
+.hidpi #buttonu793:hover
+{
+	background-image: url("../images/leo2_2x.jpg");
+}
+
+body
+{
+	position: relative;
+	min-width: 950px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
