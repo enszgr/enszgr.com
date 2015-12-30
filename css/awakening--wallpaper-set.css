@@ -1,7 +1,7 @@
 .version.awakening__wallpaper_set /* version checker */
 {
-	color: #0000E5;
-	background-color: #B97FAF;
+	color: #0000F5;
+	background-color: #948F9B;
 }
 
 .html
@@ -18,14 +18,27 @@
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 733px;
+	min-height: 2149.55px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 413px;
+	padding-bottom: 0px;
 	margin-left: auto;
 	margin-right: auto;
+}
+
+#page_position_content
+{
+	padding-top: 7px;
+	padding-bottom: 90px;
+	width: 0.01px;
+}
+
+#pu2840
+{
+	width: 0.01px;
+	margin-left: -228px;
 }
 
 #u2840
@@ -38,21 +51,6 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
-	left: -228px;
-}
-
-#ppbuttonu2841
-{
-	width: 0.01px;
-	padding-bottom: 0px;
-	margin-right: -10000px;
-	margin-top: 27px;
-}
-
-#pbuttonu2841
-{
-	width: 0.01px;
 }
 
 #buttonu2841
@@ -64,7 +62,9 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/normal-iebuttonu2313-fr.png") no-repeat center center;
+	margin-top: 20px;
+	left: 228px;
+	background: transparent url("../images/normal-iebuttonu2841-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -75,8 +75,8 @@
 	width: 39px;
 	height: 50px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/hover-iebuttonu2313-r-fr.png") no-repeat center center;
+	margin: 20px -10000px 0px 0px;
+	background: transparent url("../images/hover-iebuttonu2841-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -87,8 +87,8 @@
 	width: 39px;
 	height: 50px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/click-iebuttonu2313-m-fr.png") no-repeat center center;
+	margin: 20px -10000px 0px 0px;
+	background: transparent url("../images/click-iebuttonu2841-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -123,8 +123,8 @@
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 160px;
+	margin-top: 24px;
+	left: 388px;
 }
 
 #u2843
@@ -148,8 +148,8 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
-	left: 891px;
+	margin-top: 24px;
+	left: 1119px;
 	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
@@ -159,7 +159,7 @@
 	width: 59px;
 	height: 50px;
 	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
+	margin: 24px -10000px 0px 0px;
 	background: transparent url("../images/2.png") no-repeat center center;
 	background-size: contain;
 }
@@ -169,7 +169,7 @@
 	width: 59px;
 	height: 50px;
 	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
+	margin: 24px -10000px 0px 0px;
 	background: transparent url("../images/3.png") no-repeat center center;
 	background-size: contain;
 }
@@ -179,7 +179,7 @@
 	width: 59px;
 	height: 50px;
 	min-height: 0px;
-	margin: 4px -10000px 0px 0px;
+	margin: 24px -10000px 0px 0px;
 	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
@@ -199,7 +199,7 @@
 	background-image: url("../images/1_2x.png");
 }
 
-#u2844
+#u2848
 {
 	z-index: 10;
 	width: 950px;
@@ -207,11 +207,36 @@
 	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
 	background-color: transparent;
 	border-radius: 10px;
-	margin-top: 19px;
+	top: -7px;
+	margin-bottom: -7px;
 	position: relative;
 }
 
-#u2844 .clip_frame
+#u2854
+{
+	z-index: 12;
+	width: 950px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	background-color: transparent;
+	border-radius: 10px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u2860
+{
+	z-index: 14;
+	width: 951px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	background-color: transparent;
+	border-radius: 10px;
+	margin-top: 30px;
+	position: relative;
+}
+
+#u2848 .clip_frame,#u2854 .clip_frame,#u2860 .clip_frame
 {
 	-webkit-border-radius: 10px 10px 10px 10px;
 }
