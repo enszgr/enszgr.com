@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1451473263485">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1451473360470">
   <folder name="css">
     <file name="site_global.css" crc="3126398"/>
     <file name="index.css" crc="463524576" ref="index"/>
@@ -6,7 +6,7 @@
     <file name="spiderling--mecha-concept.css" crc="249049308" ref="spiderling--mecha-concept"/>
     <file name="cinayet-b_ro--badge.css" crc="4249813255" ref="cinayet-büro--badge"/>
     <file name="awakening--wallpaper-set.css" crc="4120154011" ref="awakening--wallpaper-set"/>
-    <file name="ens.css" crc="4236455870" ref="ens"/>
+    <file name="ens.css" crc="500440699" ref="ens"/>
     <file name="last-sunset--wallpaper.css" crc="3804851648" ref="last-sunset--wallpaper"/>
     <file name="air-force--badge.css" crc="3981748981" ref="air-force--badge"/>
     <file name="leo--wallpaper.css" crc="4078965932" ref="leo--wallpaper"/>
@@ -22,7 +22,7 @@
     <file name="jquery.watch.js" crc="3999102769" ref="index:ens:leo--wallpaper:last-sunset--wallpaper:pangea--magazine:zebra--wallpaper:spiderling--mecha-concept:air-force--badge:cinayet-büro--badge:awakening--wallpaper-set"/>
   </folder>
   <folder name="images">
-    <file name="a-kalıp-favicon.ico" crc="4024393485" ref="index"/>
+    <file name="a-kalıp-favicon.ico" crc="4024393485" ref="index:ens"/>
     <file name="ens_neo.gif" crc="337795419" seo="true" ref="index"/>
     <file name="ens_neo_2x.gif" crc="337795419" seo="true" ref="index"/>
     <file name="slack_1-iebuttonu1717-fr.png" crc="290410299" ref="index"/>
@@ -271,7 +271,7 @@
     <file name="star_destroyer_2x.jpg" crc="353652912" seo="true" ref="awakening--wallpaper-set"/>
   </folder>
   <file name="index.html" crc="535020937" seo="true" mt="1451472714598" redirect="true"/>
-  <file name="ens.html" crc="266753516" seo="true" mt="1451383339086" redirect="true"/>
+  <file name="ens.html" crc="4159138668" seo="true" mt="1451473350379" redirect="true"/>
   <file name="leo--wallpaper.html" crc="4196677743" seo="true" mt="1451402091360" redirect="true"/>
   <file name="last-sunset--wallpaper.html" crc="131633621" seo="true" mt="1451402091361" redirect="true"/>
   <file name="pangea--magazine.html" crc="477290806" seo="true" mt="1451399101648" redirect="true"/>
