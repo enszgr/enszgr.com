@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #00001D;
-	background-color: #D41E7B;
+	color: #0000FC;
+	background-color: #832FBE;
 }
 
 .html
@@ -934,8 +934,8 @@
 	color: #4C4C4C;
 	text-align: center;
 	font-size: 42px;
-	font-family: andika, sans-serif;
-	font-weight: 400;
+	font-family: museo-sans, sans-serif;
+	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 60px;

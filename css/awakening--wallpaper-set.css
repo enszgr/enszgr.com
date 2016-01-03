@@ -1,7 +1,7 @@
 .version.awakening__wallpaper_set /* version checker */
 {
-	color: #0000F5;
-	background-color: #948F9B;
+	color: #0000EB;
+	background-color: #2CBECF;
 }
 
 .html
@@ -35,13 +35,13 @@
 	width: 0.01px;
 }
 
-#pu2840
+#pu3723
 {
 	width: 0.01px;
 	margin-left: -228px;
 }
 
-#u2840
+#u3723
 {
 	z-index: 4;
 	width: 100px;
@@ -53,7 +53,7 @@
 	margin-right: -10000px;
 }
 
-#buttonu2841
+#buttonu3722
 {
 	z-index: 2;
 	width: 39px;
@@ -64,52 +64,52 @@
 	margin-right: -10000px;
 	margin-top: 20px;
 	left: 228px;
-	background: transparent url("../images/normal-iebuttonu2841-fr.png") no-repeat center center;
+	background: transparent url("../images/normal-iebuttonu2313-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
 }
 
-#buttonu2841:hover
+#buttonu3722:hover
 {
 	width: 39px;
 	height: 50px;
 	min-height: 0px;
 	margin: 20px -10000px 0px 0px;
-	background: transparent url("../images/hover-iebuttonu2841-r-fr.png") no-repeat center center;
+	background: transparent url("../images/hover-iebuttonu2313-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
 }
 
-#buttonu2841:active
+#buttonu3722:active
 {
 	width: 39px;
 	height: 50px;
 	min-height: 0px;
 	margin: 20px -10000px 0px 0px;
-	background: transparent url("../images/click-iebuttonu2841-m-fr.png") no-repeat center center;
+	background: transparent url("../images/click-iebuttonu2313-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
 }
 
-.hidpi #buttonu2841
+.hidpi #buttonu3722
 {
 	background-image: url("../images/normal_2x.png");
 }
 
-.hidpi #buttonu2841:hover
+.hidpi #buttonu3722:hover
 {
 	background-image: url("../images/hover_2x.png");
 }
 
-.hidpi #buttonu2841:active
+.hidpi #buttonu3722:active
 {
 	background-image: url("../images/click_2x.png");
 }
 
-#u2843-5
+#u3727-5
 {
 	z-index: 5;
 	width: 630px;
@@ -127,19 +127,19 @@
 	left: 388px;
 }
 
-#u2843
+#u3727
 {
 	font-size: 34px;
 }
 
-#u2843-2
+#u3727-2
 {
 	font-size: 34px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 }
 
-#buttonu2842
+#buttonu3724
 {
 	z-index: 3;
 	width: 59px;
@@ -150,56 +150,56 @@
 	margin-right: -10000px;
 	margin-top: 24px;
 	left: 1119px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
-#buttonu2842:hover
+#buttonu3724:hover
 {
 	width: 59px;
 	height: 50px;
 	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
-	background: transparent url("../images/2.png") no-repeat center center;
+	background: transparent url("../images/22.png") no-repeat center center;
 	background-size: contain;
 }
 
-#buttonu2842:active
+#buttonu3724:active
 {
 	width: 59px;
 	height: 50px;
 	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
-	background: transparent url("../images/3.png") no-repeat center center;
+	background: transparent url("../images/32.png") no-repeat center center;
 	background-size: contain;
 }
 
-#buttonu2842.ButtonSelected
+#buttonu3724.ButtonSelected
 {
 	width: 59px;
 	height: 50px;
 	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
-.hidpi #buttonu2842:hover
+.hidpi #buttonu3724:hover
 {
-	background-image: url("../images/2_2x.png");
+	background-image: url("../images/2_2x2.png");
 }
 
-.hidpi #buttonu2842:active
+.hidpi #buttonu3724:active
 {
-	background-image: url("../images/3_2x.png");
+	background-image: url("../images/3_2x2.png");
 }
 
-.hidpi #buttonu2842,.hidpi #buttonu2842.ButtonSelected
+.hidpi #buttonu3724,.hidpi #buttonu3724.ButtonSelected
 {
-	background-image: url("../images/1_2x.png");
+	background-image: url("../images/1_2x2.png");
 }
 
-#u2848
+#u3720
 {
 	z-index: 10;
 	width: 950px;
@@ -212,7 +212,7 @@
 	position: relative;
 }
 
-#u2854
+#u3718
 {
 	z-index: 12;
 	width: 950px;
@@ -224,7 +224,7 @@
 	position: relative;
 }
 
-#u2860
+#u3725
 {
 	z-index: 14;
 	width: 951px;
@@ -236,7 +236,7 @@
 	position: relative;
 }
 
-#u2848 .clip_frame,#u2854 .clip_frame,#u2860 .clip_frame
+#u3720 .clip_frame,#u3718 .clip_frame,#u3725 .clip_frame
 {
 	-webkit-border-radius: 10px 10px 10px 10px;
 }

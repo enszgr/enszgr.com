@@ -1,0 +1,228 @@
+.version.spoils_of_love__wallpaper /* version checker */
+{
+	color: #0000EF;
+	background-color: #B6C762;
+}
+
+.html
+{
+	background-color: #F2A83A;
+	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F7CE16));
+	background: -webkit-linear-gradient(left,#F2A83A ,#F7CE16 100%);
+	background: linear-gradient(to right,#F2A83A ,#F7CE16 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF7CE16, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF7CE16', GradientType=1)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 950px;
+	min-height: 724px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#u3656
+{
+	z-index: 4;
+	width: 100px;
+	min-height: 100px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 7px;
+	left: -228px;
+}
+
+#ppbuttonu3653
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-top: 27px;
+}
+
+#pbuttonu3653
+{
+	width: 0.01px;
+}
+
+#buttonu3653
+{
+	z-index: 2;
+	width: 39px;
+	height: 50px;
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	background: transparent url("../images/normal-iebuttonu2313-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#buttonu3653:hover
+{
+	width: 39px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/hover-iebuttonu2313-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+#buttonu3653:active
+{
+	width: 39px;
+	height: 50px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: transparent url("../images/click-iebuttonu2313-m-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
+	background-color: transparent;
+	background-size: contain;
+}
+
+.hidpi #buttonu3653
+{
+	background-image: url("../images/normal_2x.png");
+}
+
+.hidpi #buttonu3653:hover
+{
+	background-image: url("../images/hover_2x.png");
+}
+
+.hidpi #buttonu3653:active
+{
+	background-image: url("../images/click_2x.png");
+}
+
+#u3652-5
+{
+	z-index: 5;
+	width: 630px;
+	min-height: 36px;
+	background-color: transparent;
+	line-height: 41px;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 34px;
+	font-family: museo-sans, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 160px;
+}
+
+#u3652
+{
+	font-size: 34px;
+}
+
+#u3652-2
+{
+	font-size: 34px;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
+}
+
+#buttonu3651
+{
+	z-index: 3;
+	width: 59px;
+	height: 50px;
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 4px;
+	left: 891px;
+	background: transparent url("../images/12.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3651:hover
+{
+	width: 59px;
+	height: 50px;
+	min-height: 0px;
+	margin: 4px -10000px 0px 0px;
+	background: transparent url("../images/22.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3651:active
+{
+	width: 59px;
+	height: 50px;
+	min-height: 0px;
+	margin: 4px -10000px 0px 0px;
+	background: transparent url("../images/32.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3651.ButtonSelected
+{
+	width: 59px;
+	height: 50px;
+	min-height: 0px;
+	margin: 4px -10000px 0px 0px;
+	background: transparent url("../images/12.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #buttonu3651:hover
+{
+	background-image: url("../images/2_2x2.png");
+}
+
+.hidpi #buttonu3651:active
+{
+	background-image: url("../images/3_2x2.png");
+}
+
+.hidpi #buttonu3651,.hidpi #buttonu3651.ButtonSelected
+{
+	background-image: url("../images/1_2x2.png");
+}
+
+#u3661
+{
+	z-index: 10;
+	width: 950px;
+	-pie-box-shadow: none;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	background-color: transparent;
+	border-radius: 10px;
+	margin-top: 19px;
+	position: relative;
+}
+
+#u3661 .clip_frame
+{
+	-webkit-border-radius: 10px 10px 10px 10px;
+}
+
+body
+{
+	position: relative;
+	min-width: 950px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+

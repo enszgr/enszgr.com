@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001B;
-	background-color: #A0D2E0;
+	color: #00001D;
+	background-color: #BA4F7A;
 }
 
 .html
@@ -18,7 +18,7 @@
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 2752px;
+	min-height: 2864px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -29,15 +29,21 @@
 
 #page_position_content
 {
-	padding-top: 100px;
-	padding-bottom: 259px;
+	padding-bottom: 116px;
 	width: 0.01px;
+}
+
+#top
+{
+	left: -100px;
+	position: relative;
 }
 
 #pu796
 {
 	width: 0.01px;
 	margin-left: -209px;
+	margin-top: 82px;
 }
 
 #u796
@@ -108,18 +114,6 @@
 	background-size: cover;
 }
 
-#buttonu1717.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #412863 url("../images/slack_1-iebuttonu1717-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/slack_1.jpg") no-repeat center center;
-	background-color: #412863;
-	background-size: cover;
-}
-
 #buttonu1895
 {
 	z-index: 32;
@@ -147,24 +141,14 @@
 	background-size: cover;
 }
 
-#buttonu1895.ButtonSelected
+.hidpi #buttonu1895
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 10px 0px 0px;
-	background: #424144 url("../images/love_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/love_1_2x.jpg");
 }
 
 .hidpi #buttonu1895:hover
 {
 	background-image: url("../images/love_2_2x.jpg");
-}
-
-.hidpi #buttonu1895,.hidpi #buttonu1895.ButtonSelected
-{
-	background-image: url("../images/love_1_2x.jpg");
 }
 
 #pbuttonu1608
@@ -201,18 +185,6 @@
 	background: #680CD1 url("../images/follow-iebuttonu1608-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/follow.jpg") no-repeat center center;
 	background-color: #680CD1;
-	background-size: cover;
-}
-
-#buttonu1608.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px;
-	background: #412863 url("../images/follow2-iebuttonu1608-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/follow2.gif") no-repeat center center;
-	background-color: #412863;
 	background-size: cover;
 }
 
@@ -284,18 +256,6 @@
 	background-size: cover;
 }
 
-#buttonu1462.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #412863 url("../images/eki_1-iebuttonu1462-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/eki_1.jpg") no-repeat center center;
-	background-color: #412863;
-	background-size: cover;
-}
-
 #buttonu1848
 {
 	z-index: 29;
@@ -324,24 +284,14 @@
 	background-size: cover;
 }
 
-#buttonu1848.ButtonSelected
+.hidpi #buttonu1848
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #8152A1 url("../images/pray_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/pray_1_2x.jpg");
 }
 
 .hidpi #buttonu1848:hover
 {
 	background-image: url("../images/pray_2_2x.jpg");
-}
-
-.hidpi #buttonu1848,.hidpi #buttonu1848.ButtonSelected
-{
-	background-image: url("../images/pray_1_2x.jpg");
 }
 
 #buttonu1881
@@ -371,24 +321,14 @@
 	background-size: cover;
 }
 
-#buttonu1881.ButtonSelected
+.hidpi #buttonu1881
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #9E43A8 url("../images/sins_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/sins_1_2x.jpg");
 }
 
 .hidpi #buttonu1881:hover
 {
 	background-image: url("../images/sins_2_2x.jpg");
-}
-
-.hidpi #buttonu1881,.hidpi #buttonu1881.ButtonSelected
-{
-	background-image: url("../images/sins_1_2x.jpg");
 }
 
 #buttonu2056
@@ -423,18 +363,6 @@
 	background-size: cover;
 }
 
-#buttonu2056.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #FFCD08 url("../images/bul_1-iebuttonu2056-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/bul_1.jpg") no-repeat center center;
-	background-color: #FFCD08;
-	background-size: cover;
-}
-
 #buttonu1779
 {
 	z-index: 26;
@@ -462,24 +390,14 @@
 	background-size: cover;
 }
 
-#buttonu1779.ButtonSelected
+.hidpi #buttonu1779
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #373034 url("../images/phamsa_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/phamsa_1_2x.jpg");
 }
 
 .hidpi #buttonu1779:hover
 {
 	background-image: url("../images/phamsa_2_2x.jpg");
-}
-
-.hidpi #buttonu1779,.hidpi #buttonu1779.ButtonSelected
-{
-	background-image: url("../images/phamsa_1_2x.jpg");
 }
 
 #buttonu1765
@@ -510,24 +428,14 @@
 	background-size: cover;
 }
 
-#buttonu1765.ButtonSelected
+.hidpi #buttonu1765
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #B09076 url("../images/avenge_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/avenge_1_2x.jpg");
 }
 
 .hidpi #buttonu1765:hover
 {
 	background-image: url("../images/avenge_2_2x.jpg");
-}
-
-.hidpi #buttonu1765,.hidpi #buttonu1765.ButtonSelected
-{
-	background-image: url("../images/avenge_1_2x.jpg");
 }
 
 #buttonu1971
@@ -561,18 +469,6 @@
 	background-size: cover;
 }
 
-#buttonu1971.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #131413 url("../images/smaug_1-iebuttonu1971-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/smaug_1.jpg") no-repeat center center;
-	background-color: #131413;
-	background-size: cover;
-}
-
 #buttonu2135
 {
 	z-index: 23;
@@ -601,18 +497,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #F0F0EE url("../images/zabit2_2-iebuttonu2135-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/zabit2_2.jpg") no-repeat center center;
-	background-color: #F0F0EE;
-	background-size: cover;
-}
-
-#buttonu2135.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #F0F0EE url("../images/zabit2_1-iebuttonu2135-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/zabit2_1.jpg") no-repeat center center;
 	background-color: #F0F0EE;
 	background-size: cover;
 }
@@ -650,18 +534,6 @@
 	background-size: cover;
 }
 
-#buttonu2082.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
-	background: #BDC8CD url("../images/annual_1-iebuttonu2082-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/annual_1.jpg") no-repeat center center;
-	background-color: #BDC8CD;
-	background-size: cover;
-}
-
 #buttonu1792
 {
 	z-index: 18;
@@ -690,24 +562,14 @@
 	background-size: cover;
 }
 
-#buttonu1792.ButtonSelected
+.hidpi #buttonu1792
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
-	background: #E83113 url("../images/rank_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/rank_1_2x.jpg");
 }
 
 .hidpi #buttonu1792:hover
 {
 	background-image: url("../images/rank_2_2x.jpg");
-}
-
-.hidpi #buttonu1792,.hidpi #buttonu1792.ButtonSelected
-{
-	background-image: url("../images/rank_1_2x.jpg");
 }
 
 #buttonu2121
@@ -738,18 +600,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #212A2F url("../images/zabit1_2-iebuttonu2121-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/zabit1_2.jpg") no-repeat center center;
-	background-color: #212A2F;
-	background-size: cover;
-}
-
-#buttonu2121.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #212A2F url("../images/zabit1_1-iebuttonu2121-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/zabit1_1.jpg") no-repeat center center;
 	background-color: #212A2F;
 	background-size: cover;
 }
@@ -785,18 +635,6 @@
 	background-size: cover;
 }
 
-#buttonu2028.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #FFFFFF url("../images/read_1-iebuttonu2028-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/read_1.jpg") no-repeat center center;
-	background-color: #FFFFFF;
-	background-size: cover;
-}
-
 #buttonu2014
 {
 	z-index: 19;
@@ -825,18 +663,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #EE9200 url("../images/samer_2-iebuttonu2014-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/samer_2.jpg") no-repeat center center;
-	background-color: #EE9200;
-	background-size: cover;
-}
-
-#buttonu2014.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #EE9200 url("../images/samer_1-iebuttonu2014-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/samer_1.jpg") no-repeat center center;
 	background-color: #EE9200;
 	background-size: cover;
 }
@@ -874,24 +700,14 @@
 	background-size: cover;
 }
 
-#buttonu1820.ButtonSelected
+.hidpi #buttonu1820
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #131213 url("../images/hobbit_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/hobbit_1_2x.jpg");
 }
 
 .hidpi #buttonu1820:hover
 {
 	background-image: url("../images/hobbit_2_2x.jpg");
-}
-
-.hidpi #buttonu1820,.hidpi #buttonu1820.ButtonSelected
-{
-	background-image: url("../images/hobbit_1_2x.jpg");
 }
 
 #buttonu2042
@@ -922,18 +738,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #FFFFFF url("../images/war_2-iebuttonu2042-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/war_2.jpg") no-repeat center center;
-	background-color: #FFFFFF;
-	background-size: cover;
-}
-
-#buttonu2042.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #FFFFFF url("../images/war_1-iebuttonu2042-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/war_1.jpg") no-repeat center center;
 	background-color: #FFFFFF;
 	background-size: cover;
 }
@@ -970,18 +774,6 @@
 	background-size: cover;
 }
 
-#buttonu913.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
-	background: #36568D url("../images/steam_1-iebuttonu913-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/steam_1.jpg") no-repeat center center;
-	background-color: #36568D;
-	background-size: cover;
-}
-
 #buttonu1156
 {
 	z-index: 14;
@@ -1010,18 +802,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #383245 url("../images/hotspot_2-iebuttonu1156-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hotspot_2.jpg") no-repeat center center;
-	background-color: #383245;
-	background-size: cover;
-}
-
-#buttonu1156.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #383245 url("../images/hotspot_1-iebuttonu1156-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/hotspot_1.jpg") no-repeat center center;
 	background-color: #383245;
 	background-size: cover;
 }
@@ -1059,18 +839,6 @@
 	background-size: cover;
 }
 
-#buttonu2101.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
-	background: #CF7426 url("../images/bahar_1-iebuttonu2101-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/bahar_1.jpg") no-repeat center center;
-	background-color: #CF7426;
-	background-size: cover;
-}
-
 #buttonu1999
 {
 	z-index: 10;
@@ -1098,18 +866,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #DD4830 url("../images/cakici_2-iebuttonu1999-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/cakici_2.jpg") no-repeat center center;
-	background-color: #DD4830;
-	background-size: cover;
-}
-
-#buttonu1999.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #DD4830 url("../images/cakici_1-iebuttonu1999-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/cakici_1.jpg") no-repeat center center;
 	background-color: #DD4830;
 	background-size: cover;
 }
@@ -1146,18 +902,6 @@
 	background-size: cover;
 }
 
-#buttonu876.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #6045CD url("../images/light_wood_1-iebuttonu876-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/light_wood_1.jpg") no-repeat center center;
-	background-color: #6045CD;
-	background-size: cover;
-}
-
 #buttonu1130
 {
 	z-index: 12;
@@ -1190,18 +934,6 @@
 	background-size: cover;
 }
 
-#buttonu1130.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #6CBCD4 url("../images/fl_1-iebuttonu1130-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/fl_1.jpg") no-repeat center center;
-	background-color: #6CBCD4;
-	background-size: cover;
-}
-
 #buttonu1834
 {
 	z-index: 9;
@@ -1229,24 +961,14 @@
 	background-size: cover;
 }
 
-#buttonu1834.ButtonSelected
+.hidpi #buttonu1834
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #18191D url("../images/padme_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/padme_1_2x.jpg");
 }
 
 .hidpi #buttonu1834:hover
 {
 	background-image: url("../images/padme_2_2x.jpg");
-}
-
-.hidpi #buttonu1834,.hidpi #buttonu1834.ButtonSelected
-{
-	background-image: url("../images/padme_1_2x.jpg");
 }
 
 #buttonu1731
@@ -1340,24 +1062,14 @@
 	background-size: cover;
 }
 
-#buttonu1861.ButtonSelected
+.hidpi #buttonu1861
 {
-	width: 470px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #000204 url("../images/quor_1.jpg") no-repeat center center;
-	background-size: cover;
+	background-image: url("../images/quor_1_2x.jpg");
 }
 
 .hidpi #buttonu1861:hover
 {
 	background-image: url("../images/quor_2_2x.jpg");
-}
-
-.hidpi #buttonu1861,.hidpi #buttonu1861.ButtonSelected
-{
-	background-image: url("../images/quor_1_2x.jpg");
 }
 
 #pbuttonu1462,#pbuttonu1881,#pbuttonu1779,#pbuttonu1971,#pbuttonu1792,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
@@ -1514,6 +1226,94 @@
 .hidpi #buttonu793:hover
 {
 	background-image: url("../images/leo2_2x.jpg");
+}
+
+#buttonu3776
+{
+	z-index: 38;
+	width: 58px;
+	height: 58px;
+	border-color: #787878;
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	border-radius: 10px;
+	margin-left: 446px;
+	margin-top: 73px;
+	position: relative;
+	background: transparent url("../images/1.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3776:hover
+{
+	opacity: 1;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
+	filter: alpha(opacity=100);
+	width: 58px;
+	height: 58px;
+	min-height: 0px;
+	margin: 73px 0px 0px 446px;
+	background: transparent url("../images/2.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3776:active
+{
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	width: 58px;
+	height: 58px;
+	min-height: 0px;
+	margin: 73px 0px 0px 446px;
+	background: transparent url("../images/3.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3776.ButtonSelected
+{
+	opacity: 0.8;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
+	filter: alpha(opacity=80);
+	width: 58px;
+	height: 58px;
+	min-height: 0px;
+	margin: 73px 0px 0px 446px;
+	background: transparent url("../images/1.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #buttonu3776:hover
+{
+	background-image: url("../images/2_2x.png");
+}
+
+.hidpi #buttonu3776:active
+{
+	background-image: url("../images/3_2x.png");
+}
+
+.hidpi #buttonu3776,.hidpi #buttonu3776.ButtonSelected
+{
+	background-image: url("../images/1_2x.png");
+}
+
+#u3804-4
+{
+	z-index: 40;
+	width: 630px;
+	min-height: 31px;
+	background-color: transparent;
+	line-height: 14px;
+	color: #C19326;
+	text-align: center;
+	font-size: 12px;
+	font-family: museo-sans, sans-serif;
+	font-weight: 100;
+	margin-left: 160px;
+	margin-top: 93px;
+	position: relative;
 }
 
 body
