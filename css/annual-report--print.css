@@ -1,7 +1,7 @@
 .version.annual_report__print /* version checker */
 {
-	color: #000014;
-	background-color: #661268;
+	color: #0000E3;
+	background-color: #11EB9A;
 }
 
 .html
@@ -23,7 +23,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 88px;
+	padding-bottom: 96px;
 	margin-left: auto;
 	margin-right: auto;
 }

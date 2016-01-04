@@ -1,7 +1,7 @@
 .version.cak_c_o_lu__logo /* version checker */
 {
-	color: #00000D;
-	background-color: #075C48;
+	color: #0000EB;
+	background-color: #DCB4CF;
 }
 
 .html
@@ -18,7 +18,7 @@
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 1417px;
+	min-height: 1295px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -30,7 +30,7 @@
 #page_position_content
 {
 	padding-top: 7px;
-	padding-bottom: 218px;
+	padding-bottom: 96px;
 	width: 0.01px;
 }
 

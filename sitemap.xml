@@ -31,6 +31,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://enszgr.com/images/samer_1.jpg</loc>
+    <lastmod>2016-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://enszgr.com/images/samer_2.jpg</loc>
+    <lastmod>2016-01-04</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://enszgr.com/images/ens.png</loc>
     <lastmod>2016-01-04</lastmod>
     <changefreq>weekly</changefreq>
@@ -463,19 +475,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://enszgr.com/images/samer_12.jpg</loc>
-    <lastmod>2016-01-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://enszgr.com/images/samer_1_2x.jpg</loc>
-    <lastmod>2016-01-04</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://enszgr.com/images/samer_22.jpg</loc>
     <lastmod>2016-01-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

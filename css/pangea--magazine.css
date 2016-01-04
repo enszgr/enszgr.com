@@ -1,7 +1,7 @@
 .version.pangea__magazine /* version checker */
 {
-	color: #00000C;
-	background-color: #94012B;
+	color: #0000E7;
+	background-color: #B61D6F;
 }
 
 .html
@@ -23,7 +23,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 22px;
+	padding-bottom: 97px;
 	margin-left: auto;
 	margin-right: auto;
 }

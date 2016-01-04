@@ -1,7 +1,7 @@
 .version.zabit__magazine /* version checker */
 {
-	color: #00000B;
-	background-color: #1D0244;
+	color: #0000FA;
+	background-color: #2575A3;
 }
 
 .html
@@ -23,7 +23,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 88px;
+	padding-bottom: 97px;
 	margin-left: auto;
 	margin-right: auto;
 }

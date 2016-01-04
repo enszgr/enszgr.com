@@ -1,7 +1,7 @@
 .version.samer__logo /* version checker */
 {
-	color: #0000E5;
-	background-color: #E26FB4;
+	color: #0000ED;
+	background-color: #A11CC2;
 }
 
 .html
@@ -18,7 +18,7 @@
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 1417px;
+	min-height: 1299px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -30,7 +30,7 @@
 #page_position_content
 {
 	padding-top: 7px;
-	padding-bottom: 218px;
+	padding-bottom: 100px;
 	width: 0.01px;
 }
 

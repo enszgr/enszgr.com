@@ -1,7 +1,7 @@
 .version.awakening__wallpaper_set /* version checker */
 {
-	color: #000009;
-	background-color: #215746;
+	color: #00001E;
+	background-color: #0239A1;
 }
 
 .html
@@ -18,7 +18,7 @@
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 2149.55px;
+	min-height: 2152.55px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -31,7 +31,7 @@
 #page_position_content
 {
 	padding-top: 7px;
-	padding-bottom: 90px;
+	padding-bottom: 93px;
 	width: 0.01px;
 }
 
@@ -150,7 +150,7 @@
 	margin-right: -10000px;
 	margin-top: 24px;
 	left: 1119px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -160,7 +160,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
-	background: transparent url("../images/22.png") no-repeat center center;
+	background: transparent url("../images/2.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -170,7 +170,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
-	background: transparent url("../images/32.png") no-repeat center center;
+	background: transparent url("../images/3.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -180,23 +180,23 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 24px -10000px 0px 0px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu3724:hover
 {
-	background-image: url("../images/2_2x2.png");
+	background-image: url("../images/2_2x.png");
 }
 
 .hidpi #buttonu3724:active
 {
-	background-image: url("../images/3_2x2.png");
+	background-image: url("../images/3_2x.png");
 }
 
 .hidpi #buttonu3724,.hidpi #buttonu3724.ButtonSelected
 {
-	background-image: url("../images/1_2x2.png");
+	background-image: url("../images/1_2x.png");
 }
 
 #u3720

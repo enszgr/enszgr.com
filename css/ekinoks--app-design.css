@@ -1,7 +1,7 @@
 .version.ekinoks__app_design /* version checker */
 {
-	color: #000010;
-	background-color: #3B1853;
+	color: #000002;
+	background-color: #B0198F;
 }
 
 .html
@@ -23,7 +23,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 494px;
+	padding-bottom: 160px;
 	margin-left: auto;
 	margin-right: auto;
 }

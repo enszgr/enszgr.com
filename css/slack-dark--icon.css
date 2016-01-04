@@ -1,7 +1,7 @@
 .version.slack_dark__icon /* version checker */
 {
-	color: #000001;
-	background-color: #B3636E;
+	color: #000011;
+	background-color: #82D3E7;
 }
 
 .html
@@ -23,7 +23,7 @@
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 126px;
+	padding-bottom: 71px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -150,7 +150,7 @@
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 890px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -160,7 +160,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/22.png") no-repeat center center;
+	background: transparent url("../images/2.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -170,7 +170,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/32.png") no-repeat center center;
+	background: transparent url("../images/3.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -180,23 +180,23 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu3738:hover
 {
-	background-image: url("../images/2_2x2.png");
+	background-image: url("../images/2_2x.png");
 }
 
 .hidpi #buttonu3738:active
 {
-	background-image: url("../images/3_2x2.png");
+	background-image: url("../images/3_2x.png");
 }
 
 .hidpi #buttonu3738,.hidpi #buttonu3738.ButtonSelected
 {
-	background-image: url("../images/1_2x2.png");
+	background-image: url("../images/1_2x.png");
 }
 
 #u3737

@@ -1,7 +1,7 @@
 .version.mystery /* version checker */
 {
-	color: #0000EA;
-	background-color: #CD4E06;
+	color: #000004;
+	background-color: #0E26B7;
 }
 
 .html
@@ -18,12 +18,11 @@
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 635px;
+	min-height: 634px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
-	padding-bottom: 59px;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -150,7 +149,7 @@
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 891px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -160,7 +159,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/22.png") no-repeat center center;
+	background: transparent url("../images/2.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -170,7 +169,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/32.png") no-repeat center center;
+	background: transparent url("../images/3.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -180,23 +179,23 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu3128:hover
 {
-	background-image: url("../images/2_2x2.png");
+	background-image: url("../images/2_2x.png");
 }
 
 .hidpi #buttonu3128:active
 {
-	background-image: url("../images/3_2x2.png");
+	background-image: url("../images/3_2x.png");
 }
 
 .hidpi #buttonu3128,.hidpi #buttonu3128.ButtonSelected
 {
-	background-image: url("../images/1_2x2.png");
+	background-image: url("../images/1_2x.png");
 }
 
 #u3143

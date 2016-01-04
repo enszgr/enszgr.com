@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #000004;
-	background-color: #90C85B;
+	color: #0000F0;
+	background-color: #7D1ADD;
 }
 
 .html
@@ -24,7 +24,6 @@
 	border-color: #000000;
 	background-color: transparent;
 	border-radius: 10px;
-	padding-bottom: 144px;
 	margin-left: auto;
 	margin-right: auto;
 }
