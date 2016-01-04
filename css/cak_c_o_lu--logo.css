@@ -1,7 +1,7 @@
 .version.cak_c_o_lu__logo /* version checker */
 {
-	color: #000016;
-	background-color: #8E85F5;
+	color: #00000D;
+	background-color: #075C48;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

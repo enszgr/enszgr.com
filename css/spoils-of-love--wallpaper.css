@@ -1,7 +1,7 @@
 .version.spoils_of_love__wallpaper /* version checker */
 {
-	color: #0000EF;
-	background-color: #B6C762;
+	color: #0000F5;
+	background-color: #36063C;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

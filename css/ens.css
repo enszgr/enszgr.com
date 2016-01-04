@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #0000FC;
-	background-color: #832FBE;
+	color: #000004;
+	background-color: #90C85B;
 }
 
 .html
@@ -115,10 +115,10 @@
 	width: 630px;
 	min-height: 25px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 	position: relative;
@@ -192,10 +192,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	border-radius: 4px;
-	line-height: 14px;
 	color: #BCBCBC;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -277,10 +277,10 @@
 	min-height: 27px;
 	background-color: #31CE72;
 	border-radius: 5px;
-	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -294,10 +294,10 @@
 	width: 767px;
 	min-height: 27px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #7F7F7F;
 	text-align: left;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -317,10 +317,10 @@
 	min-height: 27px;
 	background-color: #29ABE2;
 	border-radius: 5px;
-	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -334,10 +334,10 @@
 	width: 690px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #7F7F7F;
 	text-align: left;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -396,10 +396,10 @@
 	min-height: 27px;
 	background-color: #C849FF;
 	border-radius: 5px;
-	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -413,10 +413,10 @@
 	width: 471px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 29px;
 	color: #7F7F7F;
 	text-align: left;
 	font-size: 24px;
+	line-height: 29px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -463,10 +463,10 @@
 	min-height: 27px;
 	background-color: #F8A715;
 	border-radius: 5px;
-	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -930,10 +930,10 @@
 	width: 310px;
 	min-height: 47px;
 	background-color: transparent;
-	line-height: 50px;
 	color: #4C4C4C;
 	text-align: center;
 	font-size: 42px;
+	line-height: 50px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

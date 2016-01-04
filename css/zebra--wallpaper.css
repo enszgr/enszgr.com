@@ -1,7 +1,7 @@
 .version.zebra__wallpaper /* version checker */
 {
-	color: #000006;
-	background-color: #DE343F;
+	color: #0000F0;
+	background-color: #D4C019;
 }
 
 .html
@@ -115,10 +115,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -150,7 +150,7 @@
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 891px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -160,7 +160,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/2.png") no-repeat center center;
+	background: transparent url("../images/22.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -170,7 +170,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/3.png") no-repeat center center;
+	background: transparent url("../images/32.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -180,23 +180,23 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu2741:hover
 {
-	background-image: url("../images/2_2x.png");
+	background-image: url("../images/2_2x2.png");
 }
 
 .hidpi #buttonu2741:active
 {
-	background-image: url("../images/3_2x.png");
+	background-image: url("../images/3_2x2.png");
 }
 
 .hidpi #buttonu2741,.hidpi #buttonu2741.ButtonSelected
 {
-	background-image: url("../images/1_2x.png");
+	background-image: url("../images/1_2x2.png");
 }
 
 #u2749

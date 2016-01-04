@@ -1,7 +1,7 @@
 .version.read_this__poster /* version checker */
 {
-	color: #0000FB;
-	background-color: #CCE2B0;
+	color: #00001C;
+	background-color: #C95CEF;
 }
 
 .html
@@ -115,10 +115,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
