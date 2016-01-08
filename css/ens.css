@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #0000F0;
-	background-color: #7D1ADD;
+	color: #0000F3;
+	background-color: #F2368C;
 }
 
 .html
@@ -30,7 +30,7 @@
 
 #u2190
 {
-	z-index: 126;
+	z-index: 127;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -598,6 +598,66 @@
 	background-image: url("../images/normal_2x3.png");
 }
 
+#buttonu3915
+{
+	z-index: 126;
+	width: 32px;
+	height: 49px;
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 276px;
+	background: transparent url("../images/1.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3915:hover
+{
+	width: 32px;
+	height: 49px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/2.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3915:active
+{
+	width: 32px;
+	height: 49px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/3.png") no-repeat center center;
+	background-size: contain;
+}
+
+#buttonu3915.ButtonSelected
+{
+	width: 32px;
+	height: 49px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/1.png") no-repeat center center;
+	background-size: contain;
+}
+
+.hidpi #buttonu3915:hover
+{
+	background-image: url("../images/2_2x.png");
+}
+
+.hidpi #buttonu3915:active
+{
+	background-image: url("../images/3_2x.png");
+}
+
+.hidpi #buttonu3915,.hidpi #buttonu3915.ButtonSelected
+{
+	background-image: url("../images/1_2x.png");
+}
+
 #buttonu2217
 {
 	z-index: 120;
@@ -611,7 +671,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 272px;
+	left: 322px;
 	background: transparent url("../images/normal-iebuttonu2217-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal4.png") no-repeat center center;
 	background-color: transparent;
@@ -679,7 +739,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
-	left: 334px;
+	left: 384px;
 	background: transparent url("../images/normal-iebuttonu2191-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal5.png") no-repeat center center;
 	background-color: transparent;
@@ -747,7 +807,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 13px;
-	left: 395px;
+	left: 445px;
 	background: transparent url("../images/normal-iebuttonu2274-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal6.png") no-repeat center center;
 	background-color: transparent;
@@ -814,7 +874,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 458px;
+	left: 508px;
 	background: transparent url("../images/normal7.png") no-repeat center center;
 	background-size: contain;
 }
@@ -873,7 +933,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 517px;
+	left: 567px;
 	background: transparent url("../images/normal8.png") no-repeat center center;
 	background-size: contain;
 }
