@@ -871,6 +871,18 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://enszgr.com/images/starlord.jpg</loc>
+    <lastmod>2016-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://enszgr.com/images/starlord_2x.jpg</loc>
+    <lastmod>2016-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://enszgr.com/index.html</loc>
     <lastmod>2016-01-09</lastmod>
     <changefreq>weekly</changefreq>
@@ -1094,6 +1106,12 @@
   </url>
   <url>
     <loc>http://enszgr.com/twitter-app--ui.html</loc>
+    <lastmod>2016-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://enszgr.com/star-lord--wallpaper.html</loc>
     <lastmod>2016-01-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
