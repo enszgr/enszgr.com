@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E9;
-	background-color: #0C6CCD;
+	color: #0000E5;
+	background-color: #B5C8CF;
 }
 
 .html
@@ -29,7 +29,7 @@
 
 #page_position_content
 {
-	padding-bottom: 328px;
+	padding-bottom: 327px;
 	width: 0.01px;
 }
 
@@ -48,7 +48,7 @@
 
 #u796
 {
-	z-index: 36;
+	z-index: 37;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -62,7 +62,6 @@
 #ppu732
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-left: 209px;
 }
@@ -75,12 +74,45 @@
 
 #u732
 {
-	z-index: 37;
+	z-index: 38;
 	width: 90px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 33px;
+}
+
+#buttonu3962
+{
+	z-index: 36;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1px;
+	left: 130px;
+	background: #583FD1 url("../images/twitter_app1-iebuttonu3962-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/twitter_app1.jpg") no-repeat center center;
+	background-color: #583FD1;
+	background-size: cover;
+}
+
+#buttonu3962:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 1px -10000px 0px 0px;
+	background: #543ED1 url("../images/twitter_app2-iebuttonu3962-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/twitter_app2.jpg") no-repeat center center;
+	background-color: #543ED1;
+	background-size: cover;
 }
 
 #buttonu3873
@@ -94,7 +126,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 130px;
+	left: 450px;
 	background: #C58516 url("../images/tie_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -132,7 +164,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 610px;
 	background: #412863 url("../images/slack_1-iebuttonu1717-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/slack_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -164,6 +195,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #412863 url("../images/follow2-iebuttonu1608-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/follow2.gif") no-repeat center center;
 	background-color: #412863;
@@ -195,7 +227,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
 	background: #424144 url("../images/love_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -233,6 +264,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 475px;
 	background: #7B746A url("../images/awake_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -270,7 +302,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
 	background: #412863 url("../images/eki_1-iebuttonu1462-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/eki_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -302,6 +333,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #8152A1 url("../images/pray_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -339,7 +371,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
 	background: #9E43A8 url("../images/sins_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -377,6 +408,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 480px;
 	background: #FFCD08 url("../images/bul_1-iebuttonu2056-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/bul_1.jpg") no-repeat center center;
 	background-color: #FFCD08;
@@ -408,7 +440,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
 	background: #373034 url("../images/phamsa_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -446,6 +477,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 480px;
 	background: #B09076 url("../images/avenge_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -483,7 +515,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
 	background: #131413 url("../images/smaug_1-iebuttonu1971-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/smaug_1.jpg") no-repeat center center;
 	background-color: #131413;
@@ -515,6 +546,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #F0F0EE url("../images/zabit2_1-iebuttonu2135-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/zabit2_1.jpg") no-repeat center center;
 	background-color: #F0F0EE;
@@ -546,7 +578,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
+	left: 640px;
 	background: #BDC8CD url("../images/annual_1-iebuttonu2082-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/annual_1.jpg") no-repeat center center;
 	background-color: #BDC8CD;
@@ -700,7 +732,7 @@
 	background-size: cover;
 }
 
-#pbuttonu1820
+#pbuttonu1717,#pbuttonu1820
 {
 	width: 0.01px;
 	margin-top: 9px;
@@ -1105,7 +1137,7 @@
 	background-image: url("../images/quor_2_2x.jpg");
 }
 
-#pbuttonu1608,#pbuttonu1806,#pbuttonu1848,#pbuttonu2056,#pbuttonu1765,#pbuttonu2135,#pbuttonu1792,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
+#pbuttonu1895,#pbuttonu1462,#pbuttonu1881,#pbuttonu1971,#pbuttonu1792,#pbuttonu2028,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
 {
 	width: 0.01px;
 	margin-top: 10px;
@@ -1180,7 +1212,7 @@
 	background-size: cover;
 }
 
-#pbuttonu2028,#pbuttonu1999,#pbuttonu802
+#pbuttonu1779,#pbuttonu1999,#pbuttonu802
 {
 	width: 0.01px;
 	margin-top: 11px;
@@ -1263,7 +1295,7 @@
 
 #buttonu3776
 {
-	z-index: 39;
+	z-index: 40;
 	width: 58px;
 	height: 58px;
 	border-color: #787878;
@@ -1334,14 +1366,14 @@
 
 #u3804-4
 {
-	z-index: 41;
+	z-index: 42;
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
 	color: #C19326;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 	margin-left: 160px;
