@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E3;
-	background-color: #C7B512;
+	color: #000000;
+	background-color: #B1E528;
 }
 
 .html
@@ -48,7 +48,7 @@
 
 #u796
 {
-	z-index: 39;
+	z-index: 40;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -75,7 +75,7 @@
 
 #u732
 {
-	z-index: 40;
+	z-index: 41;
 	width: 90px;
 	background-color: transparent;
 	position: relative;
@@ -83,10 +83,10 @@
 	margin-top: 33px;
 }
 
-#buttonu4050
+#buttonu4092
 {
-	z-index: 35;
-	width: 470px;
+	z-index: 39;
+	width: 310px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
 	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
@@ -95,30 +95,24 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 130px;
-	background: #271932 url("../images/major_1.jpg") no-repeat center center;
+	background: #37CB57 url("../images/back_1-copy-iebuttonu4092-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/back_1-copy.gif") no-repeat left center;
+	background-color: #37CB57;
 	background-size: cover;
 }
 
-#buttonu4050:hover
+#buttonu4092:hover
 {
 	-pie-box-shadow: 0px 20px 30px #8C8C8C;
 	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
-	width: 470px;
+	width: 310px;
 	height: 150px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: #271932 url("../images/major_2.jpg") no-repeat center center;
+	background: #37CB57 url("../images/login_2-iebuttonu4092-r-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/login_2.jpg") no-repeat left center;
+	background-color: #37CB57;
 	background-size: cover;
-}
-
-.hidpi #buttonu4050
-{
-	background-image: url("../images/major_1_2x.jpg");
-}
-
-.hidpi #buttonu4050:hover
-{
-	background-image: url("../images/major_2_2x.jpg");
 }
 
 #buttonu4000
@@ -130,8 +124,8 @@
 	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
 	border-color: #787878;
 	border-radius: 10px;
+	margin-top: 10px;
 	position: relative;
-	margin-right: -10000px;
 	background: #271932 url("../images/starlord1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -143,7 +137,7 @@
 	width: 470px;
 	height: 150px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 10px 0px 0px;
 	background: #271932 url("../images/starlord2.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -158,6 +152,49 @@
 	background-image: url("../images/starlord2_2x.jpg");
 }
 
+#pbuttonu4050
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-left: 689px;
+}
+
+#buttonu4050
+{
+	z-index: 35;
+	width: 470px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	background: #20062E url("../images/major_1.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+#buttonu4050:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 470px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px;
+	background: #20062E url("../images/major_2.jpg") no-repeat center center;
+	background-size: cover;
+}
+
+.hidpi #buttonu4050
+{
+	background-image: url("../images/major_1_2x.jpg");
+}
+
+.hidpi #buttonu4050:hover
+{
+	background-image: url("../images/major_2_2x.jpg");
+}
+
 #buttonu3962
 {
 	z-index: 38;
@@ -167,9 +204,8 @@
 	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
 	border-color: #787878;
 	border-radius: 10px;
+	margin-top: 10px;
 	position: relative;
-	margin-right: -10000px;
-	left: 480px;
 	background: #583FD1 url("../images/twitter_app1-iebuttonu3962-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/twitter_app1.jpg") no-repeat center center;
 	background-color: #583FD1;
@@ -183,7 +219,7 @@
 	width: 310px;
 	height: 150px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 10px 0px 0px;
 	background: #543ED1 url("../images/twitter_app2-iebuttonu3962-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/twitter_app2.jpg") no-repeat center center;
 	background-color: #543ED1;
@@ -1218,7 +1254,7 @@
 	background-image: url("../images/quor_2_2x.jpg");
 }
 
-#pbuttonu4000,#pbuttonu3873,#pbuttonu1848,#pbuttonu2135,#pbuttonu1792,#pbuttonu2028,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
+#pbuttonu3873,#pbuttonu1848,#pbuttonu2135,#pbuttonu1792,#pbuttonu2028,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
 {
 	width: 0.01px;
 	margin-top: 10px;
@@ -1376,7 +1412,7 @@
 
 #buttonu3776
 {
-	z-index: 42;
+	z-index: 43;
 	width: 58px;
 	height: 58px;
 	border-color: #787878;
@@ -1447,14 +1483,14 @@
 
 #u3804-4
 {
-	z-index: 44;
+	z-index: 45;
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
+	line-height: 14px;
 	color: #C19326;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 	margin-left: 160px;
