@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1452805991880">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1452806102196">
   <folder name="css">
-    <file name="site_global.css" crc="502631964"/>
-    <file name="index.css" crc="3986540858" ref="index"/>
+    <file name="site_global.css" crc="3126398"/>
+    <file name="index.css" crc="377205381" ref="index"/>
     <file name="pangea--magazine.css" crc="3887471983" ref="pangea--magazine"/>
     <file name="cinayet-b_ro--badge.css" crc="3871791290" ref="cinayet-büro--badge"/>
     <file name="awakening--wallpaper-set.css" crc="503462305" ref="awakening--wallpaper-set"/>
@@ -499,7 +499,7 @@
     <file name="click-iebuttonu4144-m-fr.png" crc="3918119671" ref="vakitler--icon-set"/>
     <file name="click-iebuttonu4144-m-fr2.png" crc="147520058" ref="vakitler--icon-set"/>
   </folder>
-  <file name="index.html" crc="465495903" seo="true" mt="1452805973495" redirect="true"/>
+  <file name="index.html" crc="4153327760" seo="true" mt="1452806087368" redirect="true"/>
   <file name="ens.html" crc="412569866" seo="true" mt="1452258144694" redirect="true"/>
   <file name="leo--wallpaper.html" crc="4096054531" seo="true" mt="1451907761143" redirect="true"/>
   <file name="last-sunset--wallpaper.html" crc="19620916" seo="true" mt="1451907769624" redirect="true"/>

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000ED;
-	background-color: #9DC93A;
+	color: #000016;
+	background-color: #7BB285;
 }
 
 .html
@@ -111,18 +111,6 @@
 	margin: 0px -10000px 0px 0px;
 	background: #484848 url("../images/vakit_2-iebuttonu4121-r-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/vakit_2.jpg") no-repeat left center;
-	background-color: #484848;
-	background-size: cover;
-}
-
-#buttonu4121.ButtonSelected
-{
-	width: 310px;
-	height: 150px;
-	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: #484848 url("../images/vakit_1-iebuttonu4121-fr.png") no-repeat left center;
-	background: rgba(0,0,0,0) url("../images/vakit_1.jpg") no-repeat left center;
 	background-color: #484848;
 	background-size: cover;
 }
