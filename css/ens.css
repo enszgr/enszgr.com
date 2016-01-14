@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #0000F3;
-	background-color: #F2368C;
+	color: #000011;
+	background-color: #82A692;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 25px;
 	background-color: transparent;
+	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 	position: relative;
@@ -191,10 +191,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	border-radius: 4px;
+	line-height: 14px;
 	color: #BCBCBC;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -276,10 +276,10 @@
 	min-height: 27px;
 	background-color: #31CE72;
 	border-radius: 5px;
+	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -293,10 +293,10 @@
 	width: 767px;
 	min-height: 27px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #7F7F7F;
 	text-align: left;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -316,10 +316,10 @@
 	min-height: 27px;
 	background-color: #29ABE2;
 	border-radius: 5px;
+	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -333,10 +333,10 @@
 	width: 690px;
 	min-height: 19px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #7F7F7F;
 	text-align: left;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -395,10 +395,10 @@
 	min-height: 27px;
 	background-color: #C849FF;
 	border-radius: 5px;
+	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -412,10 +412,10 @@
 	width: 471px;
 	min-height: 19px;
 	background-color: transparent;
+	line-height: 29px;
 	color: #7F7F7F;
 	text-align: left;
 	font-size: 24px;
-	line-height: 29px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -462,10 +462,10 @@
 	min-height: 27px;
 	background-color: #F8A715;
 	border-radius: 5px;
+	line-height: 22px;
 	color: #F7F7F7;
 	text-align: center;
 	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -609,7 +609,7 @@
 	margin-right: -10000px;
 	margin-top: 1px;
 	left: 276px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -619,7 +619,7 @@
 	height: 49px;
 	min-height: 0px;
 	margin: 1px -10000px 0px 0px;
-	background: transparent url("../images/2.png") no-repeat center center;
+	background: transparent url("../images/22.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -629,7 +629,7 @@
 	height: 49px;
 	min-height: 0px;
 	margin: 1px -10000px 0px 0px;
-	background: transparent url("../images/3.png") no-repeat center center;
+	background: transparent url("../images/32.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -639,23 +639,23 @@
 	height: 49px;
 	min-height: 0px;
 	margin: 1px -10000px 0px 0px;
-	background: transparent url("../images/1.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu3915:hover
 {
-	background-image: url("../images/2_2x.png");
+	background-image: url("../images/2_2x2.png");
 }
 
 .hidpi #buttonu3915:active
 {
-	background-image: url("../images/3_2x.png");
+	background-image: url("../images/3_2x2.png");
 }
 
 .hidpi #buttonu3915,.hidpi #buttonu3915.ButtonSelected
 {
-	background-image: url("../images/1_2x.png");
+	background-image: url("../images/1_2x2.png");
 }
 
 #buttonu2217
@@ -989,10 +989,10 @@
 	width: 310px;
 	min-height: 47px;
 	background-color: transparent;
+	line-height: 50px;
 	color: #4C4C4C;
 	text-align: center;
 	font-size: 42px;
-	line-height: 50px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
