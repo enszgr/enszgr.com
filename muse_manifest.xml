@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1452960283206">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1452961293760">
   <folder name="css">
     <file name="site_global.css" crc="502631964"/>
-    <file name="index.css" crc="58216150" ref="index"/>
+    <file name="index.css" crc="4232841585" ref="index"/>
     <file name="ens.css" crc="293774994" ref="ens"/>
     <file name="zabit-2014--magazine.css" crc="62312372" ref="zabit-2014--magazine"/>
     <file name="404.css" crc="185046976" ref="404"/>
@@ -56,8 +56,8 @@
   </folder>
   <folder name="images">
     <file name="a-kalıp-favicon.ico" crc="4024393485" ref="index"/>
-    <file name="ens_neo.gif" crc="337795419" seo="true" ref="index:404"/>
-    <file name="ens_neo_2x.gif" crc="337795419" seo="true" ref="index:404"/>
+    <file name="ens_neo.gif" crc="337795419" seo="true" ref="404"/>
+    <file name="ens_neo_2x.gif" crc="337795419" seo="true" ref="404"/>
     <file name="slack_1-iebuttonu1717-fr.png" crc="455967375" ref="index"/>
     <file name="slack_1.jpg" crc="3894477190" ref="index"/>
     <file name="slack_2-iebuttonu1717-r-fr.png" crc="3920340632" ref="index"/>
@@ -472,8 +472,12 @@
     <file name="login_3.jpg" crc="3906095706" ref="index"/>
     <file name="login_3-iebuttonu4092-r-fr2.png" crc="355512138" ref="index"/>
     <file name="login_3_2x.jpg" crc="377273646" ref="index"/>
+    <file name="u732.png" crc="4139622780" ref="index"/>
+    <file name="u732-r.png" crc="341397995" ref="index"/>
+    <file name="u732_2x.png" crc="253322910" ref="index"/>
+    <file name="u732-r_2x.png" crc="526693790" ref="index"/>
   </folder>
-  <file name="index.html" crc="28351192" seo="true" mt="1452959920766" redirect="true"/>
+  <file name="index.html" crc="4072806299" seo="true" mt="1452961224125" redirect="true"/>
   <file name="ens.html" crc="3819670502" seo="true" mt="1452806268743" redirect="true"/>
   <file name="zabit-2014--magazine.html" crc="4266709565" seo="true" mt="1451906458703" redirect="true"/>
   <file name="404.html" crc="5850664" seo="true" mt="1451906458703" redirect="true"/>

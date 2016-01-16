@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000003;
-	background-color: #784ED6;
+	color: #0000FC;
+	background-color: #4C0971;
 }
 
 .html
@@ -59,7 +59,7 @@
 	margin-top: 100px;
 }
 
-#ppu732
+#pppu732
 {
 	width: 0.01px;
 	padding-bottom: 0px;
@@ -67,7 +67,7 @@
 	margin-left: 209px;
 }
 
-#pu732
+#ppu732
 {
 	width: 0.01px;
 	margin-left: 30px;
@@ -75,12 +75,31 @@
 
 #u732
 {
-	z-index: 42;
+	z-index: 43;
+	height: 90px;
 	width: 90px;
-	background-color: transparent;
+	vertical-align: top;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 33px;
+	background: url("../images/u732.png") no-repeat 0px 0px;
+}
+
+#u732:hover
+{
+	background: url("../images/u732-r.png") no-repeat 0px 0px;
+}
+
+.hidpi #u732
+{
+	background-image: url("../images/u732_2x.png");
+	background-size: 90px 90px;
+}
+
+.hidpi #u732:hover
+{
+	background-image: url("../images/u732-r_2x.png");
+	background-size: 90px 90px;
 }
 
 #buttonu4121
@@ -1450,7 +1469,7 @@
 
 #buttonu3776
 {
-	z-index: 44;
+	z-index: 45;
 	width: 58px;
 	height: 58px;
 	border-color: #787878;
@@ -1521,7 +1540,7 @@
 
 #u3804-4
 {
-	z-index: 46;
+	z-index: 47;
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
