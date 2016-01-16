@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1452961293760">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1452961786272">
   <folder name="css">
     <file name="site_global.css" crc="502631964"/>
-    <file name="index.css" crc="4232841585" ref="index"/>
+    <file name="index.css" crc="4067448245" ref="index"/>
     <file name="ens.css" crc="293774994" ref="ens"/>
     <file name="zabit-2014--magazine.css" crc="62312372" ref="zabit-2014--magazine"/>
     <file name="404.css" crc="185046976" ref="404"/>
@@ -66,10 +66,7 @@
     <file name="love_1_2x.jpg" crc="4181579685" ref="index"/>
     <file name="love_2.jpg" crc="109100506" ref="index"/>
     <file name="love_2_2x.jpg" crc="301111528" ref="index"/>
-    <file name="follow2-iebuttonu1608-fr.png" crc="3769053150" ref="index"/>
-    <file name="follow2.gif" crc="3889170796" ref="index:follow"/>
-    <file name="follow-iebuttonu1608-r-fr.png" crc="4294723501" ref="index"/>
-    <file name="follow.jpg" crc="225473996" ref="index"/>
+    <file name="follow2.gif" crc="3889170796" ref="follow"/>
     <file name="awake_1.jpg" crc="4211234681" ref="index"/>
     <file name="awake_1_2x.jpg" crc="244629990" ref="index"/>
     <file name="awake_2.jpg" crc="4246798046" ref="index"/>
@@ -446,8 +443,7 @@
     <file name="major_2_2x.jpg" crc="4195143024" ref="index"/>
     <file name="major.jpg" crc="208216153" seo="true" ref="major"/>
     <file name="major_2x.jpg" crc="4049952881" seo="true" ref="major"/>
-    <file name="back_1-copy-iebuttonu4092-fr.png" crc="142827019" ref="index"/>
-    <file name="back_1-copy.gif" crc="3876985044" ref="index:login-concept"/>
+    <file name="back_1-copy.gif" crc="3876985044" ref="login-concept"/>
     <file name="vakit_1-iebuttonu4121-fr.png" crc="3979576388" ref="index"/>
     <file name="vakit_1.jpg" crc="233255455" ref="index"/>
     <file name="vakit_2-iebuttonu4121-r-fr.png" crc="3817127254" ref="index"/>
@@ -468,16 +464,20 @@
     <file name="128x128_2x5.png" crc="3795873403" seo="true" ref="slack-dark"/>
     <file name="48x485.png" crc="152139805" seo="true" ref="slack-dark"/>
     <file name="48x48_2x5.png" crc="416325047" seo="true" ref="slack-dark"/>
-    <file name="login_3-iebuttonu4092-r-fr.png" crc="3906095706" ref="index"/>
-    <file name="login_3.jpg" crc="3906095706" ref="index"/>
-    <file name="login_3-iebuttonu4092-r-fr2.png" crc="355512138" ref="index"/>
-    <file name="login_3_2x.jpg" crc="377273646" ref="index"/>
     <file name="u732.png" crc="4139622780" ref="index"/>
     <file name="u732-r.png" crc="341397995" ref="index"/>
     <file name="u732_2x.png" crc="253322910" ref="index"/>
     <file name="u732-r_2x.png" crc="526693790" ref="index"/>
+    <file name="login_1-iebuttonu4092-fr.png" crc="4057981863" ref="index"/>
+    <file name="login_1.jpg" crc="62055363" ref="index"/>
+    <file name="login_2-iebuttonu4092-r-fr.png" crc="525106708" ref="index"/>
+    <file name="login_2.jpg" crc="179586807" ref="index"/>
+    <file name="follow_1-iebuttonu1608-fr.png" crc="365937149" ref="index"/>
+    <file name="follow_1.jpg" crc="257652405" ref="index"/>
+    <file name="follow_2-iebuttonu1608-r-fr.png" crc="48990617" ref="index"/>
+    <file name="follow_2.jpg" crc="4202586500" ref="index"/>
   </folder>
-  <file name="index.html" crc="4072806299" seo="true" mt="1452961224125" redirect="true"/>
+  <file name="index.html" crc="4062572136" seo="true" mt="1452961756450" redirect="true"/>
   <file name="ens.html" crc="3819670502" seo="true" mt="1452806268743" redirect="true"/>
   <file name="zabit-2014--magazine.html" crc="4266709565" seo="true" mt="1451906458703" redirect="true"/>
   <file name="404.html" crc="5850664" seo="true" mt="1451906458703" redirect="true"/>

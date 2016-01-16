@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000FC;
-	background-color: #4C0971;
+	color: #0000F2;
+	background-color: #7055B5;
 }
 
 .html
@@ -189,8 +189,8 @@
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
-	background: #37CB57 url("../images/back_1-copy-iebuttonu4092-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/back_1-copy.gif") no-repeat center center;
+	background: #37CB57 url("../images/login_1-iebuttonu4092-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/login_1.jpg") no-repeat center center;
 	background-color: #37CB57;
 	background-size: cover;
 }
@@ -203,15 +203,10 @@
 	height: 150px;
 	min-height: 0px;
 	margin: 0px;
-	background: #37CB57 url("../images/login_3-iebuttonu4092-r-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/login_3.jpg") no-repeat center center;
+	background: #37CB57 url("../images/login_2-iebuttonu4092-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/login_2.jpg") no-repeat center center;
 	background-color: #37CB57;
 	background-size: cover;
-}
-
-.hidpi #buttonu4092:hover
-{
-	background-image: url("../images/login_3_2x.jpg");
 }
 
 #buttonu4000
@@ -363,8 +358,8 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 320px;
-	background: #412863 url("../images/follow2-iebuttonu1608-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/follow2.gif") no-repeat center center;
+	background: #412863 url("../images/follow_1-iebuttonu1608-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/follow_1.jpg") no-repeat center center;
 	background-color: #412863;
 	background-size: cover;
 }
@@ -377,8 +372,8 @@
 	height: 150px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: #680CD1 url("../images/follow-iebuttonu1608-r-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/follow.jpg") no-repeat center center;
+	background: #680CD1 url("../images/follow_2-iebuttonu1608-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/follow_2.jpg") no-repeat center center;
 	background-color: #680CD1;
 	background-size: cover;
 }
