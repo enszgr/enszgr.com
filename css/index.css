@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000016;
-	background-color: #7BB285;
+	color: #0000E9;
+	background-color: #0FE8A6;
 }
 
 .html
@@ -117,7 +117,7 @@
 
 #buttonu4050
 {
-	z-index: 35;
+	z-index: 38;
 	width: 470px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -192,7 +192,7 @@
 
 #buttonu4000
 {
-	z-index: 34;
+	z-index: 37;
 	width: 470px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -229,7 +229,7 @@
 
 #buttonu3962
 {
-	z-index: 38;
+	z-index: 36;
 	width: 310px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -260,7 +260,7 @@
 
 #buttonu3873
 {
-	z-index: 33;
+	z-index: 35;
 	width: 470px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -298,7 +298,7 @@
 
 #buttonu1717
 {
-	z-index: 37;
+	z-index: 34;
 	width: 310px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -329,7 +329,7 @@
 
 #buttonu1608
 {
-	z-index: 36;
+	z-index: 33;
 	width: 310px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -361,7 +361,7 @@
 
 #buttonu1462
 {
-	z-index: 30;
+	z-index: 32;
 	width: 310px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -393,7 +393,7 @@
 
 #buttonu1895
 {
-	z-index: 32;
+	z-index: 31;
 	width: 470px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -430,7 +430,7 @@
 
 #buttonu1806
 {
-	z-index: 31;
+	z-index: 30;
 	width: 470px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -1520,10 +1520,10 @@
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
-	line-height: 14px;
 	color: #C19326;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 	margin-left: 160px;
