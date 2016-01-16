@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000E9;
-	background-color: #0FE8A6;
+	color: #000003;
+	background-color: #784ED6;
 }
 
 .html
@@ -170,8 +170,8 @@
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
-	background: #37CB57 url("../images/back_1-copy-iebuttonu4092-fr.png") no-repeat left center;
-	background: rgba(0,0,0,0) url("../images/back_1-copy.gif") no-repeat left center;
+	background: #37CB57 url("../images/back_1-copy-iebuttonu4092-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/back_1-copy.gif") no-repeat center center;
 	background-color: #37CB57;
 	background-size: cover;
 }
@@ -184,10 +184,15 @@
 	height: 150px;
 	min-height: 0px;
 	margin: 0px;
-	background: #37CB57 url("../images/login_2-iebuttonu4092-r-fr.png") no-repeat left center;
-	background: rgba(0,0,0,0) url("../images/login_2.jpg") no-repeat left center;
+	background: #37CB57 url("../images/login_3-iebuttonu4092-r-fr.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/login_3.jpg") no-repeat center center;
 	background-color: #37CB57;
 	background-size: cover;
+}
+
+.hidpi #buttonu4092:hover
+{
+	background-image: url("../images/login_3_2x.jpg");
 }
 
 #buttonu4000
