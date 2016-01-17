@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1453064288536">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1453064594929">
   <folder name="css">
     <file name="site_global.css" crc="3126398"/>
-    <file name="index.css" crc="3794010883" ref="index"/>
+    <file name="index.css" crc="218210768" ref="index"/>
     <file name="ens.css" crc="536686351" ref="ens"/>
     <file name="zabit-2014--magazine.css" crc="62312372" ref="zabit-2014--magazine"/>
     <file name="404.css" crc="185046976" ref="404"/>
@@ -484,7 +484,7 @@
     <file name="deadmilk.jpg" crc="131181743" seo="true" ref="deadmilk"/>
     <file name="deadmilk_2x.jpg" crc="189976187" seo="true" ref="deadmilk"/>
   </folder>
-  <file name="index.html" crc="3991722227" seo="true" mt="1453064226999" redirect="true"/>
+  <file name="index.html" crc="95513328" seo="true" mt="1453064576901" redirect="true"/>
   <file name="ens.html" crc="456200558" seo="true" mt="1453063995383" redirect="true"/>
   <file name="zabit-2014--magazine.html" crc="109411495" seo="true" mt="1453063995383" redirect="true"/>
   <file name="404.html" crc="3990748506" seo="true" mt="1453063995383" redirect="true"/>
