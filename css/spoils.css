@@ -1,7 +1,7 @@
 .version.spoils /* version checker */
 {
-	color: #000018;
-	background-color: #4FC5B8;
+	color: #000002;
+	background-color: #CF04E6;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

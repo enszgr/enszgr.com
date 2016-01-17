@@ -1,7 +1,7 @@
 .version.twitter /* version checker */
 {
-	color: #00001B;
-	background-color: #DDE64C;
+	color: #0000E5;
+	background-color: #6FD238;
 }
 
 .html
@@ -115,10 +115,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

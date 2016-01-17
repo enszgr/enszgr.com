@@ -1,7 +1,7 @@
 .version.mystery__wallpaper /* version checker */
 {
-	color: #0000EE;
-	background-color: #5EFB89;
+	color: #0000F4;
+	background-color: #DE3AD7;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

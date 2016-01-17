@@ -1,7 +1,7 @@
 .version.sins /* version checker */
 {
-	color: #0000F6;
-	background-color: #495C51;
+	color: #000014;
+	background-color: #44B5D8;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

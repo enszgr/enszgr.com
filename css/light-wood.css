@@ -1,7 +1,7 @@
 .version.light_wood /* version checker */
 {
-	color: #0000FE;
-	background-color: #80D065;
+	color: #00001E;
+	background-color: #8F8BA9;
 }
 
 .html
@@ -115,10 +115,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

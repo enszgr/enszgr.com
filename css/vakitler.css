@@ -1,7 +1,7 @@
 .version.vakitler /* version checker */
 {
-	color: #000014;
-	background-color: #330614;
+	color: #00000E;
+	background-color: #B3C74A;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

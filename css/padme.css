@@ -1,7 +1,7 @@
 .version.padme /* version checker */
 {
-	color: #000003;
-	background-color: #FBB4EC;
+	color: #000019;
+	background-color: #7B75B2;
 }
 
 .html
@@ -114,10 +114,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
+	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
