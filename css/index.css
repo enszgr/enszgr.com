@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #01A1D0;
+	color: #0000FC;
+	background-color: #C25E14;
 }
 
 .html
@@ -40,7 +40,7 @@
 
 #u4705-4
 {
-	z-index: 52;
+	z-index: 49;
 	width: 310px;
 	min-height: 28px;
 	background-color: transparent;
@@ -73,46 +73,27 @@
 	margin-top: 100px;
 }
 
-#pppu732
+#ppu4713
 {
 	width: 0.01px;
 	margin-right: -10000px;
 	margin-left: 209px;
 }
 
-#ppu732
+#pu4713
 {
 	width: 0.01px;
-	margin-left: 30px;
+	margin-left: 24px;
 }
 
-#u732
+#u4713
 {
-	z-index: 44;
-	height: 90px;
-	width: 90px;
-	vertical-align: top;
+	z-index: 53;
+	width: 102px;
+	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 33px;
-	background: url("../images/u732.png") no-repeat 0px 0px;
-}
-
-#u732:hover
-{
-	background: url("../images/u732-r.png") no-repeat 0px 0px;
-}
-
-.hidpi #u732
-{
-	background-image: url("../images/u732_2x.png");
-	background-size: 90px 90px;
-}
-
-.hidpi #u732:hover
-{
-	background-image: url("../images/u732-r_2x.png");
-	background-size: 90px 90px;
+	margin-top: 24px;
 }
 
 #buttonu4659
@@ -126,7 +107,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 130px;
+	left: 136px;
 	background: #590AB1 url("../images/deadmilk_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -164,7 +145,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 610px;
+	left: 616px;
 	background: #484848 url("../images/vakit_1-iebuttonu4121-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/vakit_1.jpg") no-repeat left center;
 	background-color: #484848;
@@ -1509,7 +1490,7 @@
 
 #buttonu3776
 {
-	z-index: 46;
+	z-index: 43;
 	width: 58px;
 	height: 58px;
 	border-color: #787878;
@@ -1580,7 +1561,7 @@
 
 #u3804-4
 {
-	z-index: 48;
+	z-index: 45;
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
