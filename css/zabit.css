@@ -1,17 +1,17 @@
 .version.zabit /* version checker */
 {
-	color: #0000FA;
-	background-color: #2575A3;
+	color: #0000EE;
+	background-color: #EA431C;
 }
 
 .html
 {
 	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F7CE16));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F7CE16 100%);
-	background: linear-gradient(to right,#F2A83A ,#F7CE16 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF7CE16, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF7CE16', GradientType=1)";
+	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
 }
 
 #page
@@ -115,10 +115,10 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
+	line-height: 41px;
 	color: #FFFFFF;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;

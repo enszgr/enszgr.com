@@ -1,36 +1,37 @@
 .version.ens /* version checker */
 {
-	color: #00001F;
-	background-color: #FD2F0F;
+	color: #0000EB;
+	background-color: #FBB3B5;
 }
 
 .html
 {
 	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F7CE16));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F7CE16 100%);
-	background: linear-gradient(to right,#F2A83A ,#F7CE16 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF7CE16, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF7CE16', GradientType=1)";
+	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
 }
 
 #page
 {
 	z-index: 1;
 	width: 950px;
-	min-height: 599px;
+	min-height: 535px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
 	background-color: transparent;
 	border-radius: 10px;
+	padding-bottom: 64px;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #u2190
 {
-	z-index: 127;
+	z-index: 114;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -42,27 +43,16 @@
 	left: -209px;
 }
 
-#ppbuttonu2313
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 27px;
-}
-
-#pbuttonu2313
-{
-	width: 0.01px;
-}
-
 #buttonu2313
 {
-	z-index: 122;
+	z-index: 113;
 	width: 39px;
 	height: 50px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 27px;
 	background: transparent url("../images/normal-iebuttonu2313-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
 	background-color: transparent;
@@ -74,7 +64,7 @@
 	width: 39px;
 	height: 50px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 27px -10000px 0px 0px;
 	background: transparent url("../images/hover-iebuttonu2313-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
 	background-color: transparent;
@@ -86,7 +76,7 @@
 	width: 39px;
 	height: 50px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 27px -10000px 0px 0px;
 	background: transparent url("../images/click-iebuttonu2313-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
 	background-color: transparent;
@@ -108,58 +98,38 @@
 	background-image: url("../images/click_2x.png");
 }
 
-#u1290-5
-{
-	z-index: 112;
-	width: 630px;
-	min-height: 25px;
-	background-color: transparent;
-	color: #FFFFFF;
-	text-align: center;
-	font-size: 34px;
-	line-height: 41px;
-	font-family: museo-sans, sans-serif;
-	font-weight: 100;
-	position: relative;
-	margin-right: -10000px;
-	left: 160px;
-}
-
 #pu214
 {
 	width: 0.01px;
-	margin-top: 24px;
+	margin-right: -10000px;
+	margin-top: 140px;
+	margin-left: 135px;
 }
 
 #u214
 {
 	z-index: 2;
-	width: 950px;
+	width: 680px;
 	-pie-box-shadow: 0px 8px 15px #E5E5E5;
 	box-shadow: 0px 8px 15px rgba(127,127,127,0.2);
 	background-color: #F7F7F7;
 	border-radius: 10px;
-	padding-bottom: 0px;
+	padding-top: 30px;
+	padding-bottom: 18px;
 	position: relative;
 	margin-right: -10000px;
-}
-
-#u214_position_content
-{
-	padding-top: 23px;
-	padding-bottom: 34px;
 }
 
 #pu215
 {
 	width: 0.01px;
-	margin-left: 274px;
+	margin-left: 43px;
 }
 
 #u215
 {
 	z-index: 3;
-	width: 150px;
+	width: 138px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -174,8 +144,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 94px;
-	left: 176px;
+	margin-top: 88px;
+	left: 169px;
 }
 
 #u259-4
@@ -191,10 +161,10 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	border-radius: 4px;
+	line-height: 14px;
 	color: #BCBCBC;
 	text-align: center;
 	font-size: 12px;
-	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -261,47 +231,53 @@
 
 #u2162
 {
-	z-index: 117;
-	width: 950px;
+	z-index: 112;
+	width: 680px;
 	height: 1px;
-	background-color: #EDEDED;
-	margin-top: 17px;
+	background-color: #E2E2E2;
+	margin-top: 22px;
 	position: relative;
+}
+
+#pu724-4
+{
+	width: 0.01px;
+	margin-left: 52px;
+	margin-top: 23px;
 }
 
 #u724-4
 {
 	z-index: 96;
-	width: 116px;
-	min-height: 27px;
+	width: 105px;
+	min-height: 26px;
 	background-color: #31CE72;
 	border-radius: 5px;
+	line-height: 21px;
 	color: #F7F7F7;
 	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
 }
 
 #u256-34
 {
 	z-index: 9;
-	width: 767px;
-	min-height: 27px;
+	width: 388px;
+	min-height: 18px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #7F7F7F;
 	text-align: left;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 16px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	left: 153px;
+	margin-top: 4px;
+	left: 123px;
 }
 
 #u256-3,#u256-4,#u256-7,#u256-8,#u256-11,#u256-12,#u256-15,#u256-16,#u256-19,#u256-20,#u256-23,#u256-24,#u256-27,#u256-28,#u256-31
@@ -312,36 +288,35 @@
 #u725-4
 {
 	z-index: 100;
-	width: 116px;
-	min-height: 27px;
+	width: 105px;
+	min-height: 26px;
 	background-color: #29ABE2;
 	border-radius: 5px;
+	line-height: 21px;
 	color: #F7F7F7;
 	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 16px;
+	margin-top: 7px;
 }
 
 #u289-38
 {
 	z-index: 43;
-	width: 690px;
+	width: 471px;
 	min-height: 19px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #7F7F7F;
 	text-align: left;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 16px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	left: 153px;
+	left: 123px;
 }
 
 #u256-25,#u289-17
@@ -350,14 +325,7 @@
 	font-weight: 100;
 }
 
-#u289-20
-{
-	color: #29ABE2;
-	font-family: museo-sans, sans-serif;
-	font-weight: 100;
-}
-
-#u1290,#u256-9,#u256-17,#u289-9,#u289-21,#u289-29
+#u256-9,#u256-17,#u289-9,#u289-21,#u289-29
 {
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
@@ -381,46 +349,45 @@
 	font-weight: 300;
 }
 
-#pu724-4,#pu726-4
+#pu726-4
 {
 	width: 0.01px;
-	margin-left: 66px;
-	margin-top: 27px;
+	margin-left: 52px;
+	margin-top: 11px;
 }
 
 #u726-4
 {
 	z-index: 104;
-	width: 116px;
-	min-height: 27px;
+	width: 105px;
+	min-height: 26px;
 	background-color: #C849FF;
 	border-radius: 5px;
+	line-height: 21px;
 	color: #F7F7F7;
 	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
 }
 
 #u294-8
 {
 	z-index: 81;
-	width: 471px;
-	min-height: 19px;
+	width: 289px;
+	min-height: 16px;
 	background-color: transparent;
+	line-height: 19px;
 	color: #7F7F7F;
 	text-align: left;
-	font-size: 24px;
-	line-height: 29px;
+	font-size: 16px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	left: 153px;
+	margin-top: 3px;
+	left: 123px;
 }
 
 #u294
@@ -451,26 +418,25 @@
 #pu725-4,#pu727-4
 {
 	width: 0.01px;
-	margin-left: 66px;
-	margin-top: 26px;
+	margin-left: 52px;
+	margin-top: 10px;
 }
 
 #u727-4
 {
 	z-index: 108;
-	width: 116px;
-	min-height: 27px;
+	width: 105px;
+	min-height: 26px;
 	background-color: #F8A715;
 	border-radius: 5px;
+	line-height: 21px;
 	color: #F7F7F7;
 	text-align: center;
-	font-size: 18px;
-	line-height: 22px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
+	margin-top: 7px;
 }
 
 #u259-2,#u724-2,#u725-2,#u726-2,#u727-2
@@ -478,47 +444,57 @@
 	padding-top: 3px;
 }
 
+#u4799
+{
+	z-index: 115;
+	width: 367px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	left: 124px;
+}
+
 #buttonu2236
 {
-	z-index: 121;
-	width: 39px;
-	height: 50px;
+	z-index: 119;
+	width: 32px;
+	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 153px;
 	background: transparent url("../images/normal2.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2236:hover
 {
-	width: 39px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thick.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2236:active
 {
-	width: 39px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thin.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2236.ButtonSelected
 {
-	width: 39px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/normal2.png") no-repeat center center;
 	background-size: contain;
 }
@@ -540,45 +516,44 @@
 
 #buttonu2293
 {
-	z-index: 125;
-	width: 35px;
-	height: 50px;
+	z-index: 122;
+	width: 28px;
+	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 219px;
+	left: 53px;
 	background: transparent url("../images/normal3.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2293:hover
 {
-	width: 35px;
-	height: 50px;
+	width: 28px;
+	height: 41px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thick2.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2293:active
 {
-	width: 35px;
-	height: 50px;
+	width: 28px;
+	height: 41px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thin2.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2293.ButtonSelected
 {
-	width: 35px;
-	height: 50px;
+	width: 28px;
+	height: 41px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/normal3.png") no-repeat center center;
 	background-size: contain;
 }
@@ -600,45 +575,44 @@
 
 #buttonu3915
 {
-	z-index: 126;
-	width: 32px;
-	height: 49px;
+	z-index: 123;
+	width: 23px;
+	height: 40px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1px;
-	left: 276px;
+	left: 101px;
 	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu3915:hover
 {
-	width: 32px;
-	height: 49px;
+	width: 23px;
+	height: 40px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/22.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu3915:active
 {
-	width: 32px;
-	height: 49px;
+	width: 23px;
+	height: 40px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/32.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu3915.ButtonSelected
 {
-	width: 32px;
-	height: 49px;
+	width: 23px;
+	height: 40px;
 	min-height: 0px;
-	margin: 1px -10000px 0px 0px;
+	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
@@ -660,9 +634,9 @@
 
 #buttonu2217
 {
-	z-index: 120;
-	width: 50px;
-	height: 32px;
+	z-index: 118;
+	width: 41px;
+	height: 26px;
 	border-color: #787878;
 	opacity: 0.4;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
@@ -670,8 +644,8 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 322px;
+	margin-top: 8px;
+	left: 137px;
 	background: transparent url("../images/normal-iebuttonu2217-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal4.png") no-repeat center center;
 	background-color: transparent;
@@ -680,10 +654,10 @@
 
 #buttonu2217:hover
 {
-	width: 50px;
-	height: 32px;
+	width: 41px;
+	height: 26px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 8px -10000px 0px 0px;
 	background: transparent url("../images/thick-iebuttonu2217-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/thick3.png") no-repeat center center;
 	background-color: transparent;
@@ -692,10 +666,10 @@
 
 #buttonu2217:active
 {
-	width: 50px;
-	height: 32px;
+	width: 41px;
+	height: 26px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 8px -10000px 0px 0px;
 	background: transparent url("../images/thin-iebuttonu2217-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/thin3.png") no-repeat center center;
 	background-color: transparent;
@@ -704,10 +678,10 @@
 
 #buttonu2217.ButtonSelected
 {
-	width: 50px;
-	height: 32px;
+	width: 41px;
+	height: 26px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 8px -10000px 0px 0px;
 	background: transparent url("../images/normal-iebuttonu2217-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal4.png") no-repeat center center;
 	background-color: transparent;
@@ -731,15 +705,15 @@
 
 #buttonu2191
 {
-	z-index: 119;
-	width: 50px;
-	height: 24px;
+	z-index: 117;
+	width: 41px;
+	height: 20px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
-	left: 384px;
+	margin-top: 10px;
+	left: 187px;
 	background: transparent url("../images/normal-iebuttonu2191-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal5.png") no-repeat center center;
 	background-color: transparent;
@@ -748,10 +722,10 @@
 
 #buttonu2191:hover
 {
-	width: 50px;
-	height: 24px;
+	width: 41px;
+	height: 20px;
 	min-height: 0px;
-	margin: 13px -10000px 0px 0px;
+	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/hover-iebuttonu2191-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover2.png") no-repeat center center;
 	background-color: transparent;
@@ -760,10 +734,10 @@
 
 #buttonu2191:active
 {
-	width: 50px;
-	height: 24px;
+	width: 41px;
+	height: 20px;
 	min-height: 0px;
-	margin: 13px -10000px 0px 0px;
+	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/click-iebuttonu2191-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click2.png") no-repeat center center;
 	background-color: transparent;
@@ -772,10 +746,10 @@
 
 #buttonu2191.ButtonSelected
 {
-	width: 50px;
-	height: 24px;
+	width: 41px;
+	height: 20px;
 	min-height: 0px;
-	margin: 13px -10000px 0px 0px;
+	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/normal-iebuttonu2191-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal5.png") no-repeat center center;
 	background-color: transparent;
@@ -799,15 +773,15 @@
 
 #buttonu2274
 {
-	z-index: 124;
-	width: 50px;
-	height: 27px;
+	z-index: 121;
+	width: 41px;
+	height: 22px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 13px;
-	left: 445px;
+	margin-top: 10px;
+	left: 237px;
 	background: transparent url("../images/normal-iebuttonu2274-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal6.png") no-repeat center center;
 	background-color: transparent;
@@ -816,10 +790,10 @@
 
 #buttonu2274:hover
 {
-	width: 50px;
-	height: 27px;
+	width: 41px;
+	height: 22px;
 	min-height: 0px;
-	margin: 13px -10000px 0px 0px;
+	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/thick-iebuttonu2274-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/thick4.png") no-repeat center center;
 	background-color: transparent;
@@ -828,10 +802,10 @@
 
 #buttonu2274:active
 {
-	width: 50px;
-	height: 27px;
+	width: 41px;
+	height: 22px;
 	min-height: 0px;
-	margin: 13px -10000px 0px 0px;
+	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/thin-iebuttonu2274-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/thin4.png") no-repeat center center;
 	background-color: transparent;
@@ -840,10 +814,10 @@
 
 #buttonu2274.ButtonSelected
 {
-	width: 50px;
-	height: 27px;
+	width: 41px;
+	height: 22px;
 	min-height: 0px;
-	margin: 13px -10000px 0px 0px;
+	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/normal-iebuttonu2274-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal6.png") no-repeat center center;
 	background-color: transparent;
@@ -867,22 +841,22 @@
 
 #buttonu2163
 {
-	z-index: 118;
-	width: 40px;
-	height: 50px;
+	z-index: 116;
+	width: 32px;
+	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 508px;
+	left: 288px;
 	background: transparent url("../images/normal7.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2163:hover
 {
-	width: 40px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thick5.png") no-repeat center center;
@@ -891,8 +865,8 @@
 
 #buttonu2163:active
 {
-	width: 40px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thin5.png") no-repeat center center;
@@ -901,8 +875,8 @@
 
 #buttonu2163.ButtonSelected
 {
-	width: 40px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/normal7.png") no-repeat center center;
@@ -926,22 +900,22 @@
 
 #buttonu2255
 {
-	z-index: 123;
-	width: 40px;
-	height: 50px;
+	z-index: 120;
+	width: 32px;
+	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 567px;
+	left: 335px;
 	background: transparent url("../images/normal8.png") no-repeat center center;
 	background-size: contain;
 }
 
 #buttonu2255:hover
 {
-	width: 40px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thick6.png") no-repeat center center;
@@ -950,8 +924,8 @@
 
 #buttonu2255:active
 {
-	width: 40px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/thin6.png") no-repeat center center;
@@ -960,8 +934,8 @@
 
 #buttonu2255.ButtonSelected
 {
-	width: 40px;
-	height: 50px;
+	width: 32px;
+	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 	background: transparent url("../images/normal8.png") no-repeat center center;
@@ -989,16 +963,16 @@
 	width: 310px;
 	min-height: 47px;
 	background-color: transparent;
-	color: #4C4C4C;
+	line-height: 48px;
+	color: #4A4C56;
 	text-align: center;
-	font-size: 42px;
-	line-height: 50px;
+	font-size: 40px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 60px;
-	left: 418px;
+	margin-top: 61px;
+	left: 175px;
 }
 
 body
