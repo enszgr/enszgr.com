@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00000D;
-	background-color: #E4BCAB;
+	color: #000002;
+	background-color: #8A7BAA;
 }
 
 .html
@@ -108,9 +108,9 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 136px;
-	background: #5B9146 url("../images/brain_1-iebuttonu4871-fr.png") no-repeat left center;
+	background: #5BC9D0 url("../images/brain_1-iebuttonu4871-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/brain_1.jpg") no-repeat left center;
-	background-color: #5B9146;
+	background-color: #5BC9D0;
 	background-size: cover;
 }
 
@@ -122,9 +122,9 @@
 	height: 150px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: #5B9146 url("../images/brain_2-iebuttonu4871-r-fr.png") no-repeat left center;
+	background: #5BC9D0 url("../images/brain_2-iebuttonu4871-r-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/brain_2.jpg") no-repeat left center;
-	background-color: #5B9146;
+	background-color: #5BC9D0;
 	background-size: cover;
 }
 
@@ -1244,9 +1244,9 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 640px;
-	background: #6CBCD4 url("../images/fl_1-iebuttonu1130-fr.png") no-repeat center center;
+	background: #297E5C url("../images/fl_1-iebuttonu1130-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/fl_1.jpg") no-repeat center center;
-	background-color: #6CBCD4;
+	background-color: #297E5C;
 	background-size: cover;
 }
 
@@ -1258,9 +1258,9 @@
 	height: 150px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: #2AEFC5 url("../images/fl_2-iebuttonu1130-r-fr.png") no-repeat center center;
+	background: #45884F url("../images/fl_2-iebuttonu1130-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/fl_2.jpg") no-repeat center center;
-	background-color: #2AEFC5;
+	background-color: #45884F;
 	background-size: cover;
 }
 

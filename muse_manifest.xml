@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1454413722162">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1454413861912">
   <folder name="css">
     <file name="site_global.css" crc="502631964"/>
-    <file name="index.css" crc="233094315" ref="index"/>
+    <file name="index.css" crc="42630058" ref="index"/>
     <file name="ens.css" crc="3959141301" ref="ens"/>
     <file name="zabit-2014--magazine.css" crc="393869579" ref="zabit-2014--magazine"/>
     <file name="404.css" crc="4280636863" ref="404"/>
@@ -501,7 +501,7 @@
     <file name="click-iebuttonu2939-m-fr.png" crc="3918119671" ref="red-wood:brain"/>
     <file name="click-iebuttonu2939-m-fr2.png" crc="147520058" ref="red-wood:brain"/>
   </folder>
-  <file name="index.html" crc="3918052463" seo="true" mt="1454413710675" redirect="true"/>
+  <file name="index.html" crc="3774445733" seo="true" mt="1454413851843" redirect="true"/>
   <file name="ens.html" crc="3785686941" seo="true" mt="1453803119874" redirect="true"/>
   <file name="zabit-2014--magazine.html" crc="3806042508" seo="true" mt="1453802357787" redirect="true"/>
   <file name="404.html" crc="103254425" seo="true" mt="1453802357787" redirect="true"/>
