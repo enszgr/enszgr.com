@@ -1,7 +1,7 @@
 .version.red_wood /* version checker */
 {
-	color: #0000FA;
-	background-color: #2273CA;
+	color: #0000EA;
+	background-color: #9013C5;
 }
 
 .html
@@ -64,7 +64,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/normal-iebuttonu2313-fr.png") no-repeat center center;
+	background: transparent url("../images/normal-iebuttonu2939-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -76,7 +76,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/hover-iebuttonu2313-r-fr.png") no-repeat center center;
+	background: transparent url("../images/hover-iebuttonu2939-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -88,7 +88,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/click-iebuttonu2313-m-fr.png") no-repeat center center;
+	background: transparent url("../images/click-iebuttonu2939-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -115,8 +115,8 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
 	font-family: museo-sans, sans-serif;
@@ -150,7 +150,7 @@
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 890px;
-	background: transparent url("../images/13.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -160,7 +160,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/23.png") no-repeat center center;
+	background: transparent url("../images/22.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -170,7 +170,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/33.png") no-repeat center center;
+	background: transparent url("../images/32.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -180,23 +180,23 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/13.png") no-repeat center center;
+	background: transparent url("../images/12.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu2943:hover
 {
-	background-image: url("../images/2_2x3.png");
+	background-image: url("../images/2_2x2.png");
 }
 
 .hidpi #buttonu2943:active
 {
-	background-image: url("../images/3_2x3.png");
+	background-image: url("../images/3_2x2.png");
 }
 
 .hidpi #buttonu2943,.hidpi #buttonu2943.ButtonSelected
 {
-	background-image: url("../images/1_2x3.png");
+	background-image: url("../images/1_2x2.png");
 }
 
 #u2949
@@ -205,10 +205,10 @@
 	width: 950px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
 	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
-	background: #16FFB9 url("../images/u2949-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(#CD6BEA),color-stop(100%, #16FFB9));
-	background: -webkit-linear-gradient(top,#CD6BEA ,#16FFB9 100%);
-	background: linear-gradient(to bottom,#CD6BEA ,#16FFB9 100%);
+	background: #BAAF1F url("../images/u2949-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#01706A),color-stop(100%, #BAAF1F));
+	background: -webkit-linear-gradient(top,#01706A ,#BAAF1F 100%);
+	background: linear-gradient(to bottom,#01706A ,#BAAF1F 100%);
 	border-radius: 10px;
 	padding-bottom: 72px;
 	margin-top: 19px;

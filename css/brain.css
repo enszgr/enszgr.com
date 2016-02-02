@@ -1,7 +1,7 @@
-.version.slack_dark_kopya /* version checker */
+.version.brain /* version checker */
 {
-	color: #0000ED;
-	background-color: #E9EE0B;
+	color: #00000E;
+	background-color: #621A7E;
 }
 
 .html
@@ -64,7 +64,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/normal-iebuttonu4838-fr.png") no-repeat center center;
+	background: transparent url("../images/normal-iebuttonu2939-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -76,7 +76,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/hover-iebuttonu4838-r-fr.png") no-repeat center center;
+	background: transparent url("../images/hover-iebuttonu2939-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -88,7 +88,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/click-iebuttonu4838-m-fr.png") no-repeat center center;
+	background: transparent url("../images/click-iebuttonu2939-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -116,9 +116,9 @@
 	min-height: 36px;
 	background-color: transparent;
 	color: #FFFFFF;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
-	line-height: 41px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -205,10 +205,10 @@
 	width: 950px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
 	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
-	background: #BAAF1F url("../images/u4840-grad.png") repeat-x left top;
-	background: -webkit-gradient(linear, center top, center bottom, from(#01706A),color-stop(100%, #BAAF1F));
-	background: -webkit-linear-gradient(top,#01706A ,#BAAF1F 100%);
-	background: linear-gradient(to bottom,#01706A ,#BAAF1F 100%);
+	background: #16FFBD url("../images/u4840-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#D36AED),color-stop(100%, #16FFBD));
+	background: -webkit-linear-gradient(top,#D36AED ,#16FFBD 100%);
+	background: linear-gradient(to bottom,#D36AED ,#16FFBD 100%);
 	border-radius: 10px;
 	padding-bottom: 72px;
 	margin-top: 19px;
