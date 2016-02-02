@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1454407386885">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="enszgr.com" resolutions="1x,2x" timestamp="1454407648813">
   <folder name="css">
     <file name="site_global.css" crc="502631964"/>
     <file name="index.css" crc="74332353" ref="index"/>
