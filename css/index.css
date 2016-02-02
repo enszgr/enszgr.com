@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
 	color: #000004;
-	background-color: #85771E;
+	background-color: #6E38C1;
 }
 
 .html
@@ -40,7 +40,7 @@
 
 #u4705-4
 {
-	z-index: 50;
+	z-index: 51;
 	width: 310px;
 	min-height: 28px;
 	background-color: transparent;
@@ -62,7 +62,7 @@
 
 #u796
 {
-	z-index: 43;
+	z-index: 44;
 	width: 100px;
 	min-height: 100px;
 	border-style: none;
@@ -88,12 +88,44 @@
 
 #u4713
 {
-	z-index: 54;
+	z-index: 55;
 	width: 102px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 24px;
+}
+
+#buttonu4871
+{
+	z-index: 43;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 136px;
+	background: #5B9146 url("../images/brain_1-iebuttonu4871-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/brain_1.jpg") no-repeat left center;
+	background-color: #5B9146;
+	background-size: cover;
+}
+
+#buttonu4871:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #5B9146 url("../images/brain_2-iebuttonu4871-r-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/brain_2.jpg") no-repeat left center;
+	background-color: #5B9146;
+	background-size: cover;
 }
 
 #buttonu4769
@@ -107,7 +139,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 136px;
+	left: 456px;
 	background: #C7413E url("../images/montreal_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -145,7 +177,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 616px;
 	background: #484848 url("../images/vakit_1-iebuttonu4121-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/vakit_1.jpg") no-repeat left center;
 	background-color: #484848;
@@ -177,6 +208,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #590AB1 url("../images/deadmilk_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -214,7 +246,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 481px;
 	background: #37CB57 url("../images/login_1-iebuttonu4092-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/login_1.jpg") no-repeat center center;
 	background-color: #37CB57;
@@ -246,6 +277,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #20062E url("../images/major_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -283,7 +315,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 481px;
 	background: #271932 url("../images/starlord1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -321,6 +352,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 480px;
 	background: #583FD1 url("../images/twitter_app1-iebuttonu3962-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/twitter_app1.jpg") no-repeat center center;
 	background-color: #583FD1;
@@ -352,7 +384,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
 	background: #C58516 url("../images/tie_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -390,6 +421,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 480px;
 	background: #412863 url("../images/slack_1-iebuttonu1717-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/slack_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -421,7 +453,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
 	background: #412863 url("../images/follow_1-iebuttonu1608-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/follow_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -453,7 +484,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 641px;
+	left: 320px;
 	background: #412863 url("../images/eki_1-iebuttonu1462-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/eki_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -902,6 +933,12 @@
 	background-size: cover;
 }
 
+#pbuttonu2028
+{
+	width: 0.01px;
+	margin-top: 9px;
+}
+
 #buttonu2028
 {
 	z-index: 17;
@@ -913,6 +950,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
 	background: #FFFFFF url("../images/read_1-iebuttonu2028-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/read_1.jpg") no-repeat center center;
 	background-color: #FFFFFF;
@@ -926,7 +964,7 @@
 	width: 310px;
 	height: 150px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: #FFFFFF url("../images/read_2-iebuttonu2028-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/read_2.jpg") no-repeat center center;
 	background-color: #FFFFFF;
@@ -963,12 +1001,6 @@
 	background: rgba(0,0,0,0) url("../images/samer_2.jpg") no-repeat center center;
 	background-color: #EE9200;
 	background-size: cover;
-}
-
-#pbuttonu1820
-{
-	width: 0.01px;
-	margin-top: 9px;
 }
 
 #buttonu1820
@@ -1370,7 +1402,7 @@
 	background-image: url("../images/quor_2_2x.jpg");
 }
 
-#pbuttonu4659,#pbuttonu4050,#pbuttonu3962,#pbuttonu1717,#pbuttonu1895,#pbuttonu1848,#pbuttonu2135,#pbuttonu1792,#pbuttonu2028,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
+#pbuttonu4121,#pbuttonu4092,#pbuttonu4000,#pbuttonu3873,#pbuttonu1608,#pbuttonu1895,#pbuttonu1848,#pbuttonu2135,#pbuttonu1792,#pbuttonu1820,#pbuttonu913,#pbuttonu1834,#pbuttonu1750,#pbuttonu1915
 {
 	width: 0.01px;
 	margin-top: 10px;
@@ -1528,7 +1560,7 @@
 
 #buttonu3776
 {
-	z-index: 44;
+	z-index: 45;
 	width: 58px;
 	height: 58px;
 	border-color: #787878;
@@ -1599,14 +1631,14 @@
 
 #u3804-4
 {
-	z-index: 46;
+	z-index: 47;
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
-	line-height: 14px;
 	color: #C19326;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 100;
 	margin-left: 160px;
