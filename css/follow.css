@@ -1,17 +1,12 @@
 .version.follow /* version checker */
 {
-	color: #00001C;
-	background-color: #72FC87;
+	color: #0000F3;
+	background-color: #21BBE5;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
-	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+	background-color: #FFFFFF;
 }
 
 #page
@@ -20,7 +15,7 @@
 	width: 950px;
 	min-height: 612px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	margin-left: auto;
@@ -31,7 +26,7 @@
 {
 	padding-top: 7px;
 	padding-bottom: 172px;
-	width: 0.01px;
+	width: 0.01px;/* should not cover content below */
 }
 
 #pu3676
@@ -45,7 +40,7 @@
 	z-index: 3;
 	width: 100px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -114,8 +109,8 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
 	font-family: museo-sans, sans-serif;
@@ -203,14 +198,19 @@
 	left: 690px;
 }
 
+.html
+{
+	background-color: #F2A83A;
+	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+}
+
 body
 {
 	position: relative;
 	min-width: 950px;
-}
-
-#page .verticalspacer
-{
-	clear: both;
 }
 

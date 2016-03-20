@@ -1,17 +1,12 @@
 .version.ens /* version checker */
 {
-	color: #0000EB;
-	background-color: #FBB3B5;
+	color: #000004;
+	background-color: #CA0758;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
-	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+	background-color: #FFFFFF;
 }
 
 #page
@@ -20,7 +15,7 @@
 	width: 950px;
 	min-height: 535px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	border-radius: 10px;
@@ -34,7 +29,7 @@
 	z-index: 114;
 	width: 100px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -98,14 +93,6 @@
 	background-image: url("../images/click_2x.png");
 }
 
-#pu214
-{
-	width: 0.01px;
-	margin-right: -10000px;
-	margin-top: 140px;
-	margin-left: 135px;
-}
-
 #u214
 {
 	z-index: 2;
@@ -118,6 +105,8 @@
 	padding-bottom: 18px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 140px;
+	left: 135px;
 }
 
 #pu215
@@ -135,11 +124,29 @@
 	margin-right: -10000px;
 }
 
+#u221-4
+{
+	z-index: 5;
+	width: 310px;
+	min-height: 47px;
+	background-color: transparent;
+	color: #4A4C56;
+	line-height: 48px;
+	text-align: center;
+	font-size: 40px;
+	font-family: museo-sans, sans-serif;
+	font-weight: 500;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 31px;
+	left: 132px;
+}
+
 #u283
 {
 	z-index: 89;
 	width: 141px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -153,16 +160,16 @@
 	z-index: 90;
 	width: 139px;
 	min-height: 19px;
-	border-width: 1px;
 	border-style: solid;
+	border-width: 1px;
 	border-color: #BCBCBC;
 	background-color: transparent;
 	opacity: 0.8;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	border-radius: 4px;
-	line-height: 14px;
 	color: #BCBCBC;
+	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
 	font-family: museo-sans, sans-serif;
@@ -254,8 +261,8 @@
 	background-color: #31CE72;
 	border-radius: 5px;
 	line-height: 21px;
-	color: #F7F7F7;
 	text-align: center;
+	color: #F7F7F7;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -268,15 +275,15 @@
 	width: 388px;
 	min-height: 18px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 4px;
+	margin-top: 3px;
 	left: 123px;
 }
 
@@ -293,13 +300,13 @@
 	background-color: #29ABE2;
 	border-radius: 5px;
 	line-height: 21px;
-	color: #F7F7F7;
 	text-align: center;
+	color: #F7F7F7;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 7px;
+	margin-top: 6px;
 }
 
 #u289-38
@@ -308,8 +315,8 @@
 	width: 471px;
 	min-height: 19px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: proxima-nova-alt, sans-serif;
@@ -364,8 +371,8 @@
 	background-color: #C849FF;
 	border-radius: 5px;
 	line-height: 21px;
-	color: #F7F7F7;
 	text-align: center;
+	color: #F7F7F7;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -378,15 +385,15 @@
 	width: 289px;
 	min-height: 16px;
 	background-color: transparent;
-	line-height: 19px;
 	color: #7F7F7F;
+	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
+	margin-top: 2px;
 	left: 123px;
 }
 
@@ -430,8 +437,8 @@
 	background-color: #F8A715;
 	border-radius: 5px;
 	line-height: 21px;
-	color: #F7F7F7;
 	text-align: center;
+	color: #F7F7F7;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -444,27 +451,17 @@
 	padding-top: 3px;
 }
 
-#u4799
-{
-	z-index: 115;
-	width: 367px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	left: 124px;
-}
-
 #buttonu2236
 {
-	z-index: 119;
+	z-index: 118;
 	width: 32px;
 	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 1px;
+	left: 124px;
 	background: transparent url("../images/normal2.png") no-repeat center center;
 	background-size: contain;
 }
@@ -474,7 +471,7 @@
 	width: 32px;
 	height: 41px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: transparent url("../images/thick.png") no-repeat center center;
 	background-size: contain;
 }
@@ -484,7 +481,7 @@
 	width: 32px;
 	height: 41px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: transparent url("../images/thin.png") no-repeat center center;
 	background-size: contain;
 }
@@ -494,7 +491,7 @@
 	width: 32px;
 	height: 41px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: transparent url("../images/normal2.png") no-repeat center center;
 	background-size: contain;
 }
@@ -516,14 +513,15 @@
 
 #buttonu2293
 {
-	z-index: 122;
+	z-index: 121;
 	width: 28px;
 	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 53px;
+	margin-top: 1px;
+	left: 177px;
 	background: transparent url("../images/normal3.png") no-repeat center center;
 	background-size: contain;
 }
@@ -533,7 +531,7 @@
 	width: 28px;
 	height: 41px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: transparent url("../images/thick2.png") no-repeat center center;
 	background-size: contain;
 }
@@ -543,7 +541,7 @@
 	width: 28px;
 	height: 41px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: transparent url("../images/thin2.png") no-repeat center center;
 	background-size: contain;
 }
@@ -553,7 +551,7 @@
 	width: 28px;
 	height: 41px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
+	margin: 1px -10000px 0px 0px;
 	background: transparent url("../images/normal3.png") no-repeat center center;
 	background-size: contain;
 }
@@ -575,15 +573,16 @@
 
 #buttonu3915
 {
-	z-index: 123;
+	z-index: 122;
 	width: 23px;
 	height: 40px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 101px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	margin-top: 1px;
+	left: 225px;
+	background: transparent url("../images/inst_1.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -592,8 +591,8 @@
 	width: 23px;
 	height: 40px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/22.png") no-repeat center center;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/inst_2.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -602,8 +601,8 @@
 	width: 23px;
 	height: 40px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/32.png") no-repeat center center;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/inst_3.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -612,29 +611,29 @@
 	width: 23px;
 	height: 40px;
 	min-height: 0px;
-	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	margin: 1px -10000px 0px 0px;
+	background: transparent url("../images/inst_1.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu3915:hover
 {
-	background-image: url("../images/2_2x2.png");
+	background-image: url("../images/inst_2_2x.png");
 }
 
 .hidpi #buttonu3915:active
 {
-	background-image: url("../images/3_2x2.png");
+	background-image: url("../images/inst_3_2x.png");
 }
 
 .hidpi #buttonu3915,.hidpi #buttonu3915.ButtonSelected
 {
-	background-image: url("../images/1_2x2.png");
+	background-image: url("../images/inst_1_2x.png");
 }
 
 #buttonu2217
 {
-	z-index: 118;
+	z-index: 117;
 	width: 41px;
 	height: 26px;
 	border-color: #787878;
@@ -645,7 +644,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 8px;
-	left: 137px;
+	left: 261px;
 	background: transparent url("../images/normal-iebuttonu2217-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal4.png") no-repeat center center;
 	background-color: transparent;
@@ -705,15 +704,15 @@
 
 #buttonu2191
 {
-	z-index: 117;
+	z-index: 116;
 	width: 41px;
 	height: 20px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 10px;
-	left: 187px;
+	margin-top: 11px;
+	left: 311px;
 	background: transparent url("../images/normal-iebuttonu2191-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal5.png") no-repeat center center;
 	background-color: transparent;
@@ -725,7 +724,7 @@
 	width: 41px;
 	height: 20px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 11px -10000px 0px 0px;
 	background: transparent url("../images/hover-iebuttonu2191-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover2.png") no-repeat center center;
 	background-color: transparent;
@@ -737,7 +736,7 @@
 	width: 41px;
 	height: 20px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 11px -10000px 0px 0px;
 	background: transparent url("../images/click-iebuttonu2191-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click2.png") no-repeat center center;
 	background-color: transparent;
@@ -749,7 +748,7 @@
 	width: 41px;
 	height: 20px;
 	min-height: 0px;
-	margin: 10px -10000px 0px 0px;
+	margin: 11px -10000px 0px 0px;
 	background: transparent url("../images/normal-iebuttonu2191-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal5.png") no-repeat center center;
 	background-color: transparent;
@@ -773,7 +772,7 @@
 
 #buttonu2274
 {
-	z-index: 121;
+	z-index: 120;
 	width: 41px;
 	height: 22px;
 	border-color: #787878;
@@ -781,7 +780,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 10px;
-	left: 237px;
+	left: 361px;
 	background: transparent url("../images/normal-iebuttonu2274-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal6.png") no-repeat center center;
 	background-color: transparent;
@@ -841,14 +840,14 @@
 
 #buttonu2163
 {
-	z-index: 116;
+	z-index: 115;
 	width: 32px;
 	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 288px;
+	left: 412px;
 	background: transparent url("../images/normal7.png") no-repeat center center;
 	background-size: contain;
 }
@@ -900,14 +899,14 @@
 
 #buttonu2255
 {
-	z-index: 120;
+	z-index: 119;
 	width: 32px;
 	height: 41px;
 	border-color: #787878;
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 335px;
+	left: 459px;
 	background: transparent url("../images/normal8.png") no-repeat center center;
 	background-size: contain;
 }
@@ -957,22 +956,14 @@
 	background-image: url("../images/normal_2x8.png");
 }
 
-#u221-4
+.html
 {
-	z-index: 5;
-	width: 310px;
-	min-height: 47px;
-	background-color: transparent;
-	line-height: 48px;
-	color: #4A4C56;
-	text-align: center;
-	font-size: 40px;
-	font-family: museo-sans, sans-serif;
-	font-weight: 500;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 61px;
-	left: 175px;
+	background-color: #F2A83A;
+	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
 }
 
 body
@@ -981,8 +972,4 @@ body
 	min-width: 950px;
 }
 
-#page .verticalspacer
-{
-	clear: both;
-}
 

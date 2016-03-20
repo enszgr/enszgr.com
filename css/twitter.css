@@ -1,17 +1,12 @@
 .version.twitter /* version checker */
 {
-	color: #000002;
-	background-color: #CBD79F;
+	color: #000012;
+	background-color: #8258CB;
 }
 
-.html
+#muse_css_mq
 {
-	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
-	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+	background-color: #FFFFFF;
 }
 
 #page
@@ -20,7 +15,7 @@
 	width: 950px;
 	min-height: 791px;
 	background-image: none;
-	border-style: none;
+	border-width: 0px;
 	border-color: #000000;
 	background-color: transparent;
 	padding-bottom: 90px;
@@ -33,7 +28,7 @@
 	z-index: 3;
 	width: 100px;
 	min-height: 100px;
-	border-style: none;
+	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
@@ -115,8 +110,8 @@
 	width: 630px;
 	min-height: 36px;
 	background-color: transparent;
-	line-height: 41px;
 	color: #FFFFFF;
+	line-height: 41px;
 	text-align: center;
 	font-size: 34px;
 	font-family: museo-sans, sans-serif;
@@ -156,14 +151,20 @@
 	-webkit-border-radius: 10px 10px 10px 10px;
 }
 
+.html
+{
+	background-color: #F2A83A;
+	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+}
+
 body
 {
 	position: relative;
 	min-width: 950px;
 }
 
-#page .verticalspacer
-{
-	clear: both;
-}
 
