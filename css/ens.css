@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #000004;
-	background-color: #CA0758;
+	color: #00000C;
+	background-color: #E60A0B;
 }
 
 #muse_css_mq
@@ -131,9 +131,9 @@
 	min-height: 47px;
 	background-color: transparent;
 	color: #4A4C56;
-	line-height: 48px;
 	text-align: center;
 	font-size: 40px;
+	line-height: 48px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -169,9 +169,9 @@
 	filter: alpha(opacity=80);
 	border-radius: 4px;
 	color: #BCBCBC;
-	line-height: 14px;
 	text-align: center;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -260,9 +260,9 @@
 	min-height: 26px;
 	background-color: #31CE72;
 	border-radius: 5px;
-	line-height: 21px;
-	text-align: center;
 	color: #F7F7F7;
+	text-align: center;
+	line-height: 21px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -276,9 +276,9 @@
 	min-height: 18px;
 	background-color: transparent;
 	color: #7F7F7F;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -299,9 +299,9 @@
 	min-height: 26px;
 	background-color: #29ABE2;
 	border-radius: 5px;
-	line-height: 21px;
-	text-align: center;
 	color: #F7F7F7;
+	text-align: center;
+	line-height: 21px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -316,9 +316,9 @@
 	min-height: 19px;
 	background-color: transparent;
 	color: #7F7F7F;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -370,9 +370,9 @@
 	min-height: 26px;
 	background-color: #C849FF;
 	border-radius: 5px;
-	line-height: 21px;
-	text-align: center;
 	color: #F7F7F7;
+	text-align: center;
+	line-height: 21px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
@@ -386,9 +386,9 @@
 	min-height: 16px;
 	background-color: transparent;
 	color: #7F7F7F;
-	line-height: 19px;
 	text-align: left;
 	font-size: 16px;
+	line-height: 19px;
 	font-family: proxima-nova-alt, sans-serif;
 	font-weight: 600;
 	position: relative;
@@ -436,9 +436,9 @@
 	min-height: 26px;
 	background-color: #F8A715;
 	border-radius: 5px;
-	line-height: 21px;
-	text-align: center;
 	color: #F7F7F7;
+	text-align: center;
+	line-height: 21px;
 	font-family: museo-sans, sans-serif;
 	font-weight: 500;
 	position: relative;
