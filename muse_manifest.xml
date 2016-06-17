@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1466169916434">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1466170322534">
   <folder name="css">
     <file name="site_global.css" crc="3996505659"/>
     <file name="hotspot.css" crc="82112867" ref="hotspot"/>
@@ -30,7 +30,7 @@
     <file name="brain.css" crc="4203229566" ref="brain"/>
     <file name="twitter.css" crc="217514756" ref="twitter"/>
     <file name="montreal.css" crc="4029420711" ref="montreal"/>
-    <file name="index.css" crc="3994902945" ref="index"/>
+    <file name="index.css" crc="3985975348" ref="index"/>
     <file name="mystery--wallpaper.css" crc="303756177" ref="mystery--wallpaper"/>
     <file name="vakitler.css" crc="4190156401" ref="vakitler"/>
     <file name="star-lord.css" crc="4251839842" ref="star-lord"/>
@@ -509,7 +509,7 @@
     <file name="48x486.png" crc="4157634226" seo="true" ref="brain-copy"/>
     <file name="48x48_2x6.png" crc="413786615" seo="true" ref="brain-copy"/>
   </folder>
-  <file name="index.html" crc="227504177" seo="true" mt="1466168932631" redirect="true"/>
+  <file name="index.html" crc="3896263464" seo="true" mt="1466170303318" redirect="true"/>
   <file name="ens.html" crc="448909143" seo="true" mt="1466168517939" redirect="true"/>
   <file name="leo.html" crc="400851282" seo="true" mt="1466168517939" redirect="true"/>
   <file name="last-sunset.html" crc="3951440798" seo="true" mt="1466168517939" redirect="true"/>

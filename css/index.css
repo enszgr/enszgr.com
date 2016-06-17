@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EE;
-	background-color: #1D61A1;
+	color: #0000ED;
+	background-color: #952834;
 }
 
 #muse_css_mq
@@ -104,9 +104,9 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 136px;
-	background: #5BC9D0 url("../images/wataspp1-iebuttonu5929-fr.png") no-repeat left center;
+	background: #BCBCBC url("../images/wataspp1-iebuttonu5929-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/wataspp1.jpg") no-repeat left center;
-	background-color: #5BC9D0;
+	background-color: #BCBCBC;
 	background-size: cover;
 }
 
