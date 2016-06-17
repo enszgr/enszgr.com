@@ -1,7 +1,7 @@
 .version.ens /* version checker */
 {
-	color: #00000C;
-	background-color: #E60A0B;
+	color: #0000EC;
+	background-color: #28BA8A;
 }
 
 #muse_css_mq
@@ -112,16 +112,30 @@
 #pu215
 {
 	width: 0.01px;
-	margin-left: 43px;
+	margin-left: 44px;
 }
 
 #u215
 {
 	z-index: 3;
-	width: 138px;
+	width: 139px;
 	background-color: transparent;
+	border-radius: 100px;
 	position: relative;
 	margin-right: -10000px;
+}
+
+#u215 .clip_frame
+{
+	-webkit-border-radius: 100px 100px 100px 100px;
+}
+
+#pu221-4
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: 33px;
+	margin-left: 168px;
 }
 
 #u221-4
@@ -131,15 +145,12 @@
 	min-height: 47px;
 	background-color: transparent;
 	color: #4A4C56;
-	text-align: center;
-	font-size: 40px;
-	line-height: 48px;
+	text-align: left;
+	font-size: 35px;
+	line-height: 42px;
 	font-family: museo-sans, sans-serif;
-	font-weight: 500;
+	font-weight: 700;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 31px;
-	left: 132px;
 }
 
 #u283
@@ -149,10 +160,8 @@
 	border-width: 0px;
 	border-color: transparent;
 	background-color: transparent;
+	margin-top: 8px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 88px;
-	left: 169px;
 }
 
 #u259-4
@@ -242,14 +251,14 @@
 	width: 680px;
 	height: 1px;
 	background-color: #E2E2E2;
-	margin-top: 22px;
+	margin-top: 21px;
 	position: relative;
 }
 
 #pu724-4
 {
 	width: 0.01px;
-	margin-left: 52px;
+	margin-left: 62px;
 	margin-top: 23px;
 }
 
@@ -283,7 +292,7 @@
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 3px;
+	margin-top: 4px;
 	left: 123px;
 }
 
@@ -306,7 +315,7 @@
 	font-weight: 500;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 6px;
+	margin-top: 7px;
 }
 
 #u289-38
@@ -359,7 +368,7 @@
 #pu726-4
 {
 	width: 0.01px;
-	margin-left: 52px;
+	margin-left: 62px;
 	margin-top: 11px;
 }
 
@@ -393,7 +402,7 @@
 	font-weight: 600;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 2px;
+	margin-top: 3px;
 	left: 123px;
 }
 
@@ -425,7 +434,7 @@
 #pu725-4,#pu727-4
 {
 	width: 0.01px;
-	margin-left: 52px;
+	margin-left: 62px;
 	margin-top: 10px;
 }
 
@@ -637,9 +646,9 @@
 	width: 41px;
 	height: 26px;
 	border-color: #787878;
-	opacity: 0.4;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=40)";
-	filter: alpha(opacity=40);
+	opacity: 0.3;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=30)";
+	filter: alpha(opacity=30);
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
@@ -651,53 +660,18 @@
 	background-size: contain;
 }
 
-#buttonu2217:hover
-{
-	width: 41px;
-	height: 26px;
-	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
-	background: transparent url("../images/thick-iebuttonu2217-r-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/thick3.png") no-repeat center center;
-	background-color: transparent;
-	background-size: contain;
-}
-
-#buttonu2217:active
-{
-	width: 41px;
-	height: 26px;
-	min-height: 0px;
-	margin: 8px -10000px 0px 0px;
-	background: transparent url("../images/thin-iebuttonu2217-m-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/thin3.png") no-repeat center center;
-	background-color: transparent;
-	background-size: contain;
-}
-
 #buttonu2217.ButtonSelected
 {
+	background-repeat: no-repeat;
+	background-position: center center;
 	width: 41px;
 	height: 26px;
 	min-height: 0px;
 	margin: 8px -10000px 0px 0px;
-	background: transparent url("../images/normal-iebuttonu2217-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/normal4.png") no-repeat center center;
-	background-color: transparent;
 	background-size: contain;
 }
 
-.hidpi #buttonu2217:hover
-{
-	background-image: url("../images/thick_2x3.png");
-}
-
-.hidpi #buttonu2217:active
-{
-	background-image: url("../images/thin_2x3.png");
-}
-
-.hidpi #buttonu2217,.hidpi #buttonu2217.ButtonSelected
+.hidpi #buttonu2217
 {
 	background-image: url("../images/normal_2x4.png");
 }
@@ -794,7 +768,7 @@
 	min-height: 0px;
 	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/thick-iebuttonu2274-r-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/thick4.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/thick3.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
 }
@@ -806,7 +780,7 @@
 	min-height: 0px;
 	margin: 10px -10000px 0px 0px;
 	background: transparent url("../images/thin-iebuttonu2274-m-fr.png") no-repeat center center;
-	background: rgba(0,0,0,0) url("../images/thin4.png") no-repeat center center;
+	background: rgba(0,0,0,0) url("../images/thin3.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
 }
@@ -825,12 +799,12 @@
 
 .hidpi #buttonu2274:hover
 {
-	background-image: url("../images/thick_2x4.png");
+	background-image: url("../images/thick_2x3.png");
 }
 
 .hidpi #buttonu2274:active
 {
-	background-image: url("../images/thin_2x4.png");
+	background-image: url("../images/thin_2x3.png");
 }
 
 .hidpi #buttonu2274,.hidpi #buttonu2274.ButtonSelected
@@ -858,7 +832,7 @@
 	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thick5.png") no-repeat center center;
+	background: transparent url("../images/thick4.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -868,7 +842,7 @@
 	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thin5.png") no-repeat center center;
+	background: transparent url("../images/thin4.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -884,12 +858,12 @@
 
 .hidpi #buttonu2163:hover
 {
-	background-image: url("../images/thick_2x5.png");
+	background-image: url("../images/thick_2x4.png");
 }
 
 .hidpi #buttonu2163:active
 {
-	background-image: url("../images/thin_2x5.png");
+	background-image: url("../images/thin_2x4.png");
 }
 
 .hidpi #buttonu2163,.hidpi #buttonu2163.ButtonSelected
@@ -917,7 +891,7 @@
 	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thick6.png") no-repeat center center;
+	background: transparent url("../images/thick5.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -927,7 +901,7 @@
 	height: 41px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/thin6.png") no-repeat center center;
+	background: transparent url("../images/thin5.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -943,12 +917,12 @@
 
 .hidpi #buttonu2255:hover
 {
-	background-image: url("../images/thick_2x6.png");
+	background-image: url("../images/thick_2x5.png");
 }
 
 .hidpi #buttonu2255:active
 {
-	background-image: url("../images/thin_2x6.png");
+	background-image: url("../images/thin_2x5.png");
 }
 
 .hidpi #buttonu2255,.hidpi #buttonu2255.ButtonSelected
@@ -959,11 +933,11 @@
 .html
 {
 	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
-	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+	background: -webkit-gradient(linear, center top, center bottom, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(top,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to bottom,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=0)";
 }
 
 body

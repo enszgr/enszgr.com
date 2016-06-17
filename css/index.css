@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000019;
-	background-color: #3AE29F;
+	color: #0000EE;
+	background-color: #1D61A1;
 }
 
 #muse_css_mq
@@ -36,7 +36,7 @@
 
 #u4705-4
 {
-	z-index: 52;
+	z-index: 53;
 	width: 310px;
 	min-height: 28px;
 	background-color: transparent;
@@ -58,7 +58,7 @@
 
 #u796
 {
-	z-index: 45;
+	z-index: 46;
 	width: 100px;
 	min-height: 100px;
 	border-width: 0px;
@@ -72,7 +72,6 @@
 #ppu4713
 {
 	width: 0.01px;
-	padding-bottom: 0px;
 	margin-right: -10000px;
 	margin-left: 209px;
 }
@@ -85,12 +84,44 @@
 
 #u4713
 {
-	z-index: 56;
+	z-index: 57;
 	width: 102px;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 24px;
+}
+
+#buttonu5929
+{
+	z-index: 45;
+	width: 310px;
+	height: 150px;
+	-pie-box-shadow: 0px 8px 8px #E5E5E5;
+	box-shadow: 0px 8px 8px rgba(0,0,0,0.1);
+	border-color: #787878;
+	border-radius: 10px;
+	position: relative;
+	margin-right: -10000px;
+	left: 136px;
+	background: #5BC9D0 url("../images/wataspp1-iebuttonu5929-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/wataspp1.jpg") no-repeat left center;
+	background-color: #5BC9D0;
+	background-size: cover;
+}
+
+#buttonu5929:hover
+{
+	-pie-box-shadow: 0px 20px 30px #8C8C8C;
+	box-shadow: 0px 20px 30px rgba(0,0,0,0.45);
+	width: 310px;
+	height: 150px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+	background: #BCBCBC url("../images/wataspp2-iebuttonu5929-r-fr.png") no-repeat left center;
+	background: rgba(0,0,0,0) url("../images/wataspp2.jpg") no-repeat left center;
+	background-color: #BCBCBC;
+	background-size: cover;
 }
 
 #buttonu5860
@@ -104,7 +135,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 136px;
+	left: 456px;
 	background: #1B1B19 url("../images/dots_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -142,7 +173,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 616px;
 	background: #5BC9D0 url("../images/brain_1-iebuttonu4871-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/brain_1.jpg") no-repeat left center;
 	background-color: #5BC9D0;
@@ -174,6 +204,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #C7413E url("../images/montreal_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -202,7 +233,7 @@
 
 #buttonu4121
 {
-	z-index: 40;
+	z-index: 41;
 	width: 310px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -211,7 +242,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
 	background: #484848 url("../images/vakit_1-iebuttonu4121-fr.png") no-repeat left center;
 	background: rgba(0,0,0,0) url("../images/vakit_1.jpg") no-repeat left center;
 	background-color: #484848;
@@ -234,7 +264,7 @@
 
 #buttonu4659
 {
-	z-index: 41;
+	z-index: 40;
 	width: 470px;
 	height: 150px;
 	-pie-box-shadow: 0px 8px 8px #E5E5E5;
@@ -243,6 +273,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #590AB1 url("../images/deadmilk_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -280,7 +311,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
 	background: #37CB57 url("../images/login_1-iebuttonu4092-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/login_1.jpg") no-repeat center center;
 	background-color: #37CB57;
@@ -312,6 +342,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 320px;
 	background: #20062E url("../images/major_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -349,7 +380,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 480px;
 	background: #271932 url("../images/starlord1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -387,6 +417,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 480px;
 	background: #583FD1 url("../images/twitter_app1-iebuttonu3962-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/twitter_app1.jpg") no-repeat center center;
 	background-color: #583FD1;
@@ -418,7 +449,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
 	background: #C58516 url("../images/tie_1.jpg") no-repeat center center;
 	background-size: cover;
 }
@@ -456,6 +486,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
+	left: 480px;
 	background: #412863 url("../images/slack_1-iebuttonu1717-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/slack_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -487,7 +518,6 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 320px;
 	background: #412863 url("../images/follow_1-iebuttonu1608-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/follow_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -519,7 +549,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	left: 640px;
+	left: 320px;
 	background: #412863 url("../images/eki_1-iebuttonu1462-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/eki_1.jpg") no-repeat center center;
 	background-color: #412863;
@@ -1509,7 +1539,7 @@
 	background-size: cover;
 }
 
-#pbuttonu4769,#pbuttonu4659,#pbuttonu4050,#pbuttonu3962,#pbuttonu1717,#pbuttonu1895,#pbuttonu1848,#pbuttonu2135,#pbuttonu1999,#pbuttonu1834,#pbuttonu1915,#pbuttonu802
+#pbuttonu4871,#pbuttonu4121,#pbuttonu4092,#pbuttonu4000,#pbuttonu3873,#pbuttonu1608,#pbuttonu1895,#pbuttonu1848,#pbuttonu2135,#pbuttonu1999,#pbuttonu1834,#pbuttonu1915,#pbuttonu802
 {
 	width: 0.01px;
 	margin-top: 10px;
@@ -1592,7 +1622,7 @@
 
 #buttonu3776
 {
-	z-index: 46;
+	z-index: 47;
 	width: 58px;
 	height: 58px;
 	border-color: #787878;
@@ -1663,7 +1693,7 @@
 
 #u3804-4
 {
-	z-index: 48;
+	z-index: 49;
 	width: 630px;
 	min-height: 31px;
 	background-color: transparent;
@@ -1681,11 +1711,11 @@
 .html
 {
 	background-color: #F2A83A;
-	background: -webkit-gradient(linear, left center, right center, from(#F2A83A),color-stop(100%, #F4BF0E));
-	background: -webkit-linear-gradient(left,#F2A83A ,#F4BF0E 100%);
-	background: linear-gradient(to right,#F2A83A ,#F4BF0E 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=1)";
+	background: -webkit-gradient(linear, center top, center bottom, from(#F2A83A),color-stop(100%, #F4BF0E));
+	background: -webkit-linear-gradient(top,#F2A83A ,#F4BF0E 100%);
+	background: linear-gradient(to bottom,#F2A83A ,#F4BF0E 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFF2A83A, endColorstr=#FFF4BF0E, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFF2A83A', endColorstr='#FFF4BF0E', GradientType=0)";
 }
 
 body
