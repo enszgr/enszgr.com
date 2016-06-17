@@ -1,7 +1,7 @@
 .version.red_wood /* version checker */
 {
-	color: #00001E;
-	background-color: #6AD021;
+	color: #0000FA;
+	background-color: #AE7A4A;
 }
 
 #muse_css_mq
@@ -59,7 +59,7 @@
 	border-radius: 10px;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/normal-iebuttonu2313-fr.png") no-repeat center center;
+	background: transparent url("../images/normal-iebuttonu2939-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/normal.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -71,7 +71,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/hover-iebuttonu2313-r-fr.png") no-repeat center center;
+	background: transparent url("../images/hover-iebuttonu2939-r-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/hover.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -83,7 +83,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/click-iebuttonu2313-m-fr.png") no-repeat center center;
+	background: transparent url("../images/click-iebuttonu2939-m-fr.png") no-repeat center center;
 	background: rgba(0,0,0,0) url("../images/click.png") no-repeat center center;
 	background-color: transparent;
 	background-size: contain;
@@ -145,7 +145,7 @@
 	margin-right: -10000px;
 	margin-top: 4px;
 	left: 890px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -155,7 +155,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/22.png") no-repeat center center;
+	background: transparent url("../images/2.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -165,7 +165,7 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/32.png") no-repeat center center;
+	background: transparent url("../images/3.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -175,23 +175,23 @@
 	height: 50px;
 	min-height: 0px;
 	margin: 4px -10000px 0px 0px;
-	background: transparent url("../images/12.png") no-repeat center center;
+	background: transparent url("../images/1.png") no-repeat center center;
 	background-size: contain;
 }
 
 .hidpi #buttonu2943:hover
 {
-	background-image: url("../images/2_2x2.png");
+	background-image: url("../images/2_2x.png");
 }
 
 .hidpi #buttonu2943:active
 {
-	background-image: url("../images/3_2x2.png");
+	background-image: url("../images/3_2x.png");
 }
 
 .hidpi #buttonu2943,.hidpi #buttonu2943.ButtonSelected
 {
-	background-image: url("../images/1_2x2.png");
+	background-image: url("../images/1_2x.png");
 }
 
 #u2949
