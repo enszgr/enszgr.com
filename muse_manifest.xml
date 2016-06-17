@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1466170489581">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1466170549376">
   <folder name="css">
     <file name="site_global.css" crc="3996505659"/>
     <file name="hotspot.css" crc="82112867" ref="hotspot"/>
@@ -16,7 +16,6 @@
     <file name="red-wood.css" crc="510316577" ref="red-wood"/>
     <file name="avengers.css" crc="370713919" ref="avengers"/>
     <file name="slack-dark.css" crc="509272619" ref="slack-dark"/>
-    <file name="brain-copy.css" crc="45566808" ref="brain-copy"/>
     <file name="phasma.css" crc="3971759797" ref="phasma"/>
     <file name="404.css" crc="32239727" ref="404"/>
     <file name="war-pigs.css" crc="195808726" ref="war-pigs"/>
@@ -48,13 +47,14 @@
     <file name="zabit.css" crc="112794701" ref="zabit"/>
     <file name="zebra.css" crc="523419492" ref="zebra"/>
     <file name="spoils.css" crc="3799351201" ref="spoils"/>
+    <file name="whatsapp.css" crc="4249107138" ref="whatsapp"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="museutils.js" crc="3790713428" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="whatinput.js" crc="84559013" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="pie.js" crc="3827607177" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="jquery.watch.js" crc="4244854265" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="museutils.js" crc="3790713428" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="whatinput.js" crc="84559013" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="pie.js" crc="3827607177" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
   </folder>
   <folder name="images">
     <file name="a-kalıp-favicon.ico" crc="523158836" ref="index"/>
@@ -242,18 +242,18 @@
     <file name="2_2x.png" crc="4008763576" ref="index"/>
     <file name="3.png" crc="3825387092" ref="index"/>
     <file name="3_2x.png" crc="3885065368" ref="index"/>
-    <file name="normal-iebuttonu2313-fr.png" crc="515218123" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="normal.png" crc="515218123" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="normal-iebuttonu2313-fr2.png" crc="3777205432" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="normal_2x.png" crc="3777205432" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="hover-iebuttonu2313-r-fr.png" crc="3895906455" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="hover.png" crc="3895906455" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="hover-iebuttonu2313-r-fr2.png" crc="427709651" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="hover_2x.png" crc="427709651" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="click-iebuttonu2313-m-fr.png" crc="3918119671" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="click.png" crc="3918119671" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="click-iebuttonu2313-m-fr2.png" crc="147520058" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="click_2x.png" crc="147520058" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
+    <file name="normal-iebuttonu2313-fr.png" crc="515218123" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots"/>
+    <file name="normal.png" crc="515218123" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="normal-iebuttonu2313-fr2.png" crc="3777205432" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots"/>
+    <file name="normal_2x.png" crc="3777205432" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="hover-iebuttonu2313-r-fr.png" crc="3895906455" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots"/>
+    <file name="hover.png" crc="3895906455" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="hover-iebuttonu2313-r-fr2.png" crc="427709651" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots"/>
+    <file name="hover_2x.png" crc="427709651" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="click-iebuttonu2313-m-fr.png" crc="3918119671" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots"/>
+    <file name="click.png" crc="3918119671" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="click-iebuttonu2313-m-fr2.png" crc="147520058" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots"/>
+    <file name="click_2x.png" crc="147520058" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
     <file name="neo_12-crop-u215.jpg" crc="3795943403" ref="ens"/>
     <file name="neo_12-crop-u215_2x.jpg" crc="304261073" ref="ens"/>
     <file name="location_icon.png" crc="253784792" seo="true" ref="ens"/>
@@ -316,12 +316,12 @@
     <file name="thick_2x5.png" crc="264821595" ref="ens"/>
     <file name="thin5.png" crc="197860535" ref="ens"/>
     <file name="thin_2x5.png" crc="332547673" ref="ens"/>
-    <file name="12.png" crc="4153118971" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="1_2x2.png" crc="524699337" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="22.png" crc="4143156273" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="2_2x2.png" crc="3994725765" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="32.png" crc="318981721" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
-    <file name="3_2x2.png" crc="236514288" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:brain-copy"/>
+    <file name="12.png" crc="4153118971" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="1_2x2.png" crc="524699337" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="22.png" crc="4143156273" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="2_2x2.png" crc="3994725765" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="32.png" crc="318981721" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
+    <file name="3_2x2.png" crc="236514288" ref="leo:last-sunset:zebra:quorra:padme:red-wood:light-wood:hotspot:steel-steam:mystery--wallpaper:ranked:smaug:avengers:phasma:sins:pray:spoils:awakening:slack-dark:fighters:star-lord:major:vakitler:deadmilk:montreal:brain:dots:whatsapp"/>
     <file name="leo.jpg" crc="59049807" seo="true" ref="leo"/>
     <file name="leo_2x.jpg" crc="128764616" seo="true" ref="leo"/>
     <file name="last_sunset.jpg" crc="528399955" seo="true" ref="last-sunset"/>
@@ -349,10 +349,10 @@
     <file name="u2949-grad.png" crc="87406664" ref="red-wood"/>
     <file name="512x512.png" crc="424819789" seo="true" ref="red-wood"/>
     <file name="512x512_2x.png" crc="4031349954" seo="true" ref="red-wood"/>
-    <file name="128x128.png" crc="42491230" seo="true" ref="red-wood"/>
-    <file name="128x128_2x.png" crc="3946179870" seo="true" ref="red-wood"/>
-    <file name="48x48.png" crc="43709649" seo="true" ref="red-wood"/>
-    <file name="48x48_2x.png" crc="528403057" seo="true" ref="red-wood"/>
+    <file name="128x128.png" crc="455844052" seo="true" ref="red-wood:whatsapp"/>
+    <file name="128x128_2x.png" crc="12763054" seo="true" ref="red-wood:whatsapp"/>
+    <file name="48x48.png" crc="4157634226" seo="true" ref="red-wood:whatsapp"/>
+    <file name="48x48_2x.png" crc="413786615" seo="true" ref="red-wood:whatsapp"/>
     <file name="u2980-grad.png" crc="3880694969" ref="light-wood"/>
     <file name="512x512_lw.png" crc="158517847" seo="true" ref="light-wood"/>
     <file name="512x512_lw_2x.png" crc="3924055924" seo="true" ref="light-wood"/>
@@ -501,15 +501,17 @@
     <file name="48x48_2x5.png" crc="377375743" seo="true" ref="brain"/>
     <file name="dots.jpg" crc="301492515" seo="true" ref="dots"/>
     <file name="dots_2x.jpg" crc="4220559000" seo="true" ref="dots"/>
-    <file name="u5957-grad.png" crc="245878391" ref="brain-copy"/>
-    <file name="wataspp.png" crc="275236602" seo="true" ref="brain-copy"/>
-    <file name="wataspp_2x.png" crc="436544863" seo="true" ref="brain-copy"/>
-    <file name="128x1286.png" crc="455844052" seo="true" ref="brain-copy"/>
-    <file name="128x128_2x6.png" crc="12763054" seo="true" ref="brain-copy"/>
-    <file name="48x486.png" crc="4157634226" seo="true" ref="brain-copy"/>
-    <file name="48x48_2x6.png" crc="413786615" seo="true" ref="brain-copy"/>
+    <file name="u5957-grad.png" crc="245878391" ref="whatsapp"/>
+    <file name="wataspp.png" crc="275236602" seo="true" ref="whatsapp"/>
+    <file name="wataspp_2x.png" crc="436544863" seo="true" ref="whatsapp"/>
+    <file name="normal-iebuttonu5954-fr.png" crc="515218123" ref="whatsapp"/>
+    <file name="normal-iebuttonu5954-fr2.png" crc="3777205432" ref="whatsapp"/>
+    <file name="hover-iebuttonu5954-r-fr.png" crc="3895906455" ref="whatsapp"/>
+    <file name="hover-iebuttonu5954-r-fr2.png" crc="427709651" ref="whatsapp"/>
+    <file name="click-iebuttonu5954-m-fr.png" crc="3918119671" ref="whatsapp"/>
+    <file name="click-iebuttonu5954-m-fr2.png" crc="147520058" ref="whatsapp"/>
   </folder>
-  <file name="index.html" crc="4203691146" seo="true" mt="1466170475158" redirect="true"/>
+  <file name="index.html" crc="524305586" seo="true" mt="1466170537082" redirect="true"/>
   <file name="ens.html" crc="448909143" seo="true" mt="1466168517939" redirect="true"/>
   <file name="leo.html" crc="400851282" seo="true" mt="1466168517939" redirect="true"/>
   <file name="last-sunset.html" crc="3951440798" seo="true" mt="1466168517939" redirect="true"/>
@@ -555,5 +557,5 @@
   <file name="montreal.html" crc="220882999" seo="true" mt="1466168517939" redirect="true"/>
   <file name="brain.html" crc="4177644378" seo="true" mt="1466168517939" redirect="true"/>
   <file name="dots.html" crc="365669293" seo="true" mt="1466168517939" redirect="true"/>
-  <file name="brain-copy.html" crc="434788872" seo="true" mt="1466169830989" redirect="true"/>
+  <file name="whatsapp.html" crc="104794839" seo="true" mt="1466170537086" redirect="true"/>
 </manifest>

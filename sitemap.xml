@@ -1039,30 +1039,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/128x1286.png</loc>
-    <lastmod>2016-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ens.ninja/images/128x128_2x6.png</loc>
-    <lastmod>2016-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ens.ninja/images/48x486.png</loc>
-    <lastmod>2016-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ens.ninja/images/48x48_2x6.png</loc>
-    <lastmod>2016-06-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://ens.ninja/index.html</loc>
     <lastmod>2016-06-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -1339,7 +1315,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/brain-copy.html</loc>
+    <loc>http://ens.ninja/whatsapp.html</loc>
     <lastmod>2016-06-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
