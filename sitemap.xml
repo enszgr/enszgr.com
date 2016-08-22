@@ -295,7 +295,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/rank_2x.jpg</loc>
+    <loc>http://ens.ninja/images/cakicioglu_1.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -307,13 +307,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/48x48_2x2.png</loc>
+    <loc>http://ens.ninja/images/128x1282.png</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/cakicioglu_1.jpg</loc>
+    <loc>http://ens.ninja/images/128x128_2x2.png</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -331,13 +331,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/cakicioglu_2_2x.jpg</loc>
+    <loc>http://ens.ninja/images/48x48_2x2.png</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/turnuva188x266.jpg</loc>
+    <loc>http://ens.ninja/images/cakicioglu_2_2x.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -385,13 +385,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/endorfin___rock_band___1st_poster_by_enszgr-d60wpgx.jpg</loc>
+    <loc>http://ens.ninja/images/turnuva188x266.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/endorfin___rock_band___1st_poster_by_enszgr-d60wpgx_2x.jpg</loc>
+    <loc>http://ens.ninja/images/endorfin___rock_band___1st_poster_by_enszgr-d60wpgx.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -493,13 +493,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/128x1282.png</loc>
+    <loc>http://ens.ninja/images/endorfin___rock_band___1st_poster_by_enszgr-d60wpgx_2x.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/128x128_2x2.png</loc>
+    <loc>http://ens.ninja/images/rank.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -703,19 +703,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/rank.jpg</loc>
+    <loc>http://ens.ninja/images/splash_ekinoks_2x.jpg</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ens.ninja/images/rank_2x.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://ens.ninja/images/512x512_2x2.png</loc>
-    <lastmod>2016-08-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://ens.ninja/images/location_2x.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1117,13 +1117,25 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/main_window_1.gif</loc>
+    <loc>http://ens.ninja/images/main_window_2.gif</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/main_window_1_2x.gif</loc>
+    <loc>http://ens.ninja/images/main_window_2_2x.gif</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ens.ninja/images/settings_window.png</loc>
+    <lastmod>2016-08-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://ens.ninja/images/settings_window_2x.png</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1405,7 +1417,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/splash_ekinoks_2x.jpg</loc>
+    <loc>http://ens.ninja/images/location.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1417,7 +1429,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://ens.ninja/images/location.jpg</loc>
+    <loc>http://ens.ninja/images/location_2x.jpg</loc>
     <lastmod>2016-08-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

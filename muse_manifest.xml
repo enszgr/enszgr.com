@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1471858469834">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1471858899587">
   <folder name="css">
     <file name="site_global.css" crc="498000322"/>
     <file name="red-wood.css" crc="4083130465" ref="red-wood"/>
@@ -49,7 +49,7 @@
     <file name="annual-report.css" crc="4273340361" ref="annual-report"/>
     <file name="hotspot.css" crc="3859652466" ref="hotspot"/>
     <file name="lul.css" crc="3883515984" ref="lul"/>
-    <file name="login-concept-copy.css" crc="281559839" ref="login-concept-copy"/>
+    <file name="login-concept-copy.css" crc="141018527" ref="login-concept-copy"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="169078940" ref="index:ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:404:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp:lul:login-concept-copy"/>
@@ -62,7 +62,7 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="271560940" ref="ens:leo:last-sunset:pangea:zebra:air-force:cinayet:quorra:padme:red-wood:light-wood:hotspot:steel-steam:cakıcıoglu:bahar:mystery--wallpaper:war-pigs:samer:read-this:zabit:zabit-2014--magazine:ranked:annual-report:smaug:avengers:phasma:bul-bizi:sins:pray:ekinoks:spoils:follow:awakening:slack-dark:fighters:twitter:star-lord:major:login-concept:vakitler:deadmilk:montreal:brain:dots:whatsapp:lul:login-concept-copy"/>
   </folder>
   <folder name="images">
-    <file name="a-kalıp-favicon.ico" crc="523158836" ref="index"/>
+    <file name="a-kalıp-favicon.ico" crc="523158836" ref="index:login-concept-copy"/>
     <file name="ens_neo.gif" crc="337795419" seo="true" ref="index"/>
     <file name="ens_neo_2x.gif" crc="337795419" seo="true" ref="index"/>
     <file name="lul1.jpg" crc="293020694" ref="index"/>
@@ -524,8 +524,10 @@
     <file name="zownloader_icon_2png29x30.png" crc="3913559955" seo="true" ref="login-concept-copy"/>
     <file name="zownloader_icon_2png29x30_2x.png" crc="467211325" seo="true" ref="login-concept-copy"/>
     <file name="download_window.png" crc="3999283557" seo="true" ref="login-concept-copy"/>
-    <file name="main_window_1.gif" crc="3894822635" seo="true" ref="login-concept-copy"/>
-    <file name="main_window_1_2x.gif" crc="3894822635" seo="true" ref="login-concept-copy"/>
+    <file name="main_window_2.gif" crc="376366212" seo="true" ref="login-concept-copy"/>
+    <file name="main_window_2_2x.gif" crc="376366212" seo="true" ref="login-concept-copy"/>
+    <file name="settings_window.png" crc="3797753368" seo="true" ref="login-concept-copy"/>
+    <file name="settings_window_2x.png" crc="533847115" seo="true" ref="login-concept-copy"/>
   </folder>
   <file name="index.html" crc="449103506" seo="true" mt="1471856818265" redirect="true"/>
   <file name="ens.html" crc="95836916" seo="true" mt="1469100211999" redirect="true"/>
@@ -575,5 +577,5 @@
   <file name="dots.html" crc="3785904116" seo="true" mt="1469099948943" redirect="true"/>
   <file name="whatsapp.html" crc="188764132" seo="true" mt="1469100045415" redirect="true"/>
   <file name="lul.html" crc="433672743" seo="true" mt="1469101138466" redirect="true"/>
-  <file name="login-concept-copy.html" crc="250018436" seo="true" mt="1471858436776" redirect="true"/>
+  <file name="login-concept-copy.html" crc="438681059" seo="true" mt="1471858866276" redirect="true"/>
 </manifest>
