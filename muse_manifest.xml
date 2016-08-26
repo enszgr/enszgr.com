@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1472225715442">
+<manifest alg="2" build="2015.2.1.352" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1472225803442">
   <folder name="css">
     <file name="site_global.css" crc="498000322"/>
     <file name="red-wood.css" crc="67843993" ref="red-wood"/>
@@ -16,7 +16,7 @@
     <file name="slack-dark.css" crc="4067190155" ref="slack-dark"/>
     <file name="follow.css" crc="329934749" ref="follow"/>
     <file name="war-pigs.css" crc="3926036036" ref="war-pigs"/>
-    <file name="index.css" crc="3886605539" ref="index"/>
+    <file name="index.css" crc="4210001876" ref="index"/>
     <file name="sins.css" crc="3921803223" ref="sins"/>
     <file name="major.css" crc="3948601111" ref="major"/>
     <file name="zabit-2014--magazine.css" crc="3856960559" ref="zabit-2014--magazine"/>
@@ -540,7 +540,7 @@
     <file name="plusses-u7962.png" crc="4238772285" ref="plusses"/>
     <file name="plusses-u7962_2x.png" crc="4194081974" ref="plusses"/>
   </folder>
-  <file name="index.html" crc="147444047" seo="true" mt="1472225585140" redirect="true"/>
+  <file name="index.html" crc="3821530897" seo="true" mt="1472225793393" redirect="true"/>
   <file name="ens.html" crc="4086346165" seo="true" mt="1472225120188" redirect="true"/>
   <file name="leo.html" crc="154683951" seo="true" mt="1472224782661" redirect="true"/>
   <file name="last-sunset.html" crc="4210722701" seo="true" mt="1472224788021" redirect="true"/>
