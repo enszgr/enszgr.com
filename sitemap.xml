@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ens.ninja/index.html</loc>
-    <lastmod>2017-03-04</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/ens.html</loc>
-    <lastmod>2017-02-24</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,19 +32,13 @@
   </url>
   <url>
     <loc>http://ens.ninja/leo.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://ens.ninja/images/leo.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/leo_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/last-sunset.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -56,7 +50,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/pangea.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -68,13 +62,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/pangea.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/pangea_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/zebra.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -86,7 +77,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/air-force.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -104,7 +95,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/cinayet.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -122,7 +113,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/quorra.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -140,7 +131,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/padme.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -152,7 +143,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/red-wood.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -176,7 +167,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/light-wood.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -200,7 +191,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/hotspot.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -224,7 +215,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/steel-steam.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -248,25 +239,19 @@
   </url>
   <url>
     <loc>http://ens.ninja/cak%C4%B1c%C4%B1oglu.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ens.ninja/images/cakicioglu_1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/cakicioglu_1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ens.ninja/images/cakicioglu_2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/cakicioglu_2_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/bahar.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -278,13 +263,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/turnuva.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/turnuva_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/mystery--wallpaper.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -296,7 +278,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/war-pigs.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -308,31 +290,22 @@
     <image:image>
       <image:loc>http://ens.ninja/images/endorfin___rock_band___1st_poster_by_enszgr-d60wpgx.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/endorfin___rock_band___1st_poster_by_enszgr-d60wpgx_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/samer.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ens.ninja/images/samer_12.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/samer_1_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://ens.ninja/images/samer_22.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/samer_2_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/read-this.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -344,13 +317,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/read_this.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/read_this_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/zabit.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -362,13 +332,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/zabit_2014.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/zabit_2014_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/zabit-2014--magazine.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -380,13 +347,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/zabit_2015.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/zabit_2015_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/ranked.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -398,7 +362,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/annual-report.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -410,13 +374,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/tek_rapor.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/tek_rapor_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/smaug.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -438,10 +399,10 @@
       <image:loc>http://ens.ninja/images/4_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/12.jpg</image:loc>
+      <image:loc>http://ens.ninja/images/smaug228x152.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/12_2x.jpg</image:loc>
+      <image:loc>http://ens.ninja/images/smaug228x152_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ens.ninja/images/13.jpg</image:loc>
@@ -450,15 +411,15 @@
       <image:loc>http://ens.ninja/images/13_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/hobbit_retina.jpg</image:loc>
+      <image:loc>http://ens.ninja/images/smaug.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/hobbit_retina_2x.jpg</image:loc>
+      <image:loc>http://ens.ninja/images/smaug_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/avengers.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -470,7 +431,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/phasma.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -482,7 +443,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/bul-bizi.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -494,13 +455,10 @@
     <image:image>
       <image:loc>http://ens.ninja/images/final.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://ens.ninja/images/final_2x.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/sins.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -524,7 +482,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/pray.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -536,7 +494,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/ekinoks.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -546,10 +504,10 @@
       <image:loc>http://ens.ninja/images/splash_ekinoks_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/location.jpg</image:loc>
+      <image:loc>http://ens.ninja/images/location265x470.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/location_2x.jpg</image:loc>
+      <image:loc>http://ens.ninja/images/location265x470_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ens.ninja/images/ekinoks.gif</image:loc>
@@ -560,7 +518,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/spoils.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -572,7 +530,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/follow.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -602,7 +560,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/awakening.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -626,14 +584,14 @@
   </url>
   <url>
     <loc>http://ens.ninja/slack-dark.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ens.ninja/images/512x5123.png</image:loc>
+      <image:loc>http://ens.ninja/images/1024x1024.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/512x512_2x3.png</image:loc>
+      <image:loc>http://ens.ninja/images/1024x1024_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ens.ninja/images/128x1283.png</image:loc>
@@ -650,14 +608,14 @@
   </url>
   <url>
     <loc>http://ens.ninja/404.html</loc>
-    <lastmod>2016-07-21</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ens.ninja/images/ens_neo2.gif</image:loc>
+      <image:loc>http://ens.ninja/images/ens_neo.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/ens_neo_2x2.gif</image:loc>
+      <image:loc>http://ens.ninja/images/ens_neo_2x.gif</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ens.ninja/images/ups.png</image:loc>
@@ -668,7 +626,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/fighters.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -680,7 +638,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/twitter.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -692,7 +650,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/star-lord.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -704,7 +662,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/major.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -716,16 +674,16 @@
   </url>
   <url>
     <loc>http://ens.ninja/login-concept.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ens.ninja/images/back_1-copy.gif</image:loc>
+      <image:loc>http://ens.ninja/images/login_concept.gif</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://ens.ninja/vakitler.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -737,7 +695,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/deadmilk.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -749,7 +707,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/montreal.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -761,14 +719,14 @@
   </url>
   <url>
     <loc>http://ens.ninja/brain.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://ens.ninja/images/512x5124.png</image:loc>
+      <image:loc>http://ens.ninja/images/512x5123.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://ens.ninja/images/512x512_2x4.png</image:loc>
+      <image:loc>http://ens.ninja/images/512x512_2x3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://ens.ninja/images/128x1284.png</image:loc>
@@ -785,7 +743,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/dots.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -797,7 +755,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/whatsapp.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -821,7 +779,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/lul.html</loc>
-    <lastmod>2017-02-08</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -833,7 +791,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/zownloader.html</loc>
-    <lastmod>2016-08-26</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -872,7 +830,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/plusses.html</loc>
-    <lastmod>2017-02-08</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -884,7 +842,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/good-evening.html</loc>
-    <lastmod>2017-02-08</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -896,7 +854,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/dunes.html</loc>
-    <lastmod>2017-02-08</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -908,7 +866,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/is_it_luke.html</loc>
-    <lastmod>2017-02-24</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -920,7 +878,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/hills.html</loc>
-    <lastmod>2017-03-04</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -932,11 +890,581 @@
   </url>
   <url>
     <loc>http://ens.ninja/lyin.html</loc>
-    <lastmod>2017-03-04</lastmod>
+    <lastmod>2017-09-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://ens.ninja/images/cub2saoxiaax7mo.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ens.ninja/brand.html</loc>
+    <lastmod>2017-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ens_neo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ens_neo_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/rosanisaa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/rosanisaa_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/srosanisa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/srosanisa_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/rosasnisa.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/rosasnisa_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%201.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%201_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%205.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%205_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%206_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/kursbudur_text.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/kursbudur_text_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/kursbudur_text_mono.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/kursbudur_text_mono_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/kursbudur_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/kursbudur_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_colored.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_colored_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_white229x76.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_white229x76_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_colored-crop-u11168.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_colored-crop-u11168_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_white-crop-u11175.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/imece_logotype_white-crop-u11175_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/logo_big.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/logo_big_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%20s2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%20s2_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%204_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%204s.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%204s_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%202_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%203_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%202.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%202_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%2022.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%2022_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%202s.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%202s_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%2022124x80.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%2022124x80_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%202%20copy.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%202%20copy_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%202%20copys.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%202%20copys_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%204_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%203.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%203_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/arifname_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/arifname_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/colored.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/colored_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white177x79.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white177x79_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%2032.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/group%203_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%204%20copy%206.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/shape%204%20copy%206_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/neutron_logo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/neutron_logo_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white_2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/neutron_logo225x34.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/neutron_logo225x34_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white225x33.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white225x33_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/as_yapi.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/as_yapi_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/as_yapi_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/as_yapi_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/as_yapi_white111x111.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/as_yapi_white111x111_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/normal5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/normal_2x5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/black_2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/white_2x5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/icon.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/icon_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/blue.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/blue_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/nurf_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/nurf_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%200_black.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%200_black_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%200_white.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/layer%200_white_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/nurfer_logo_3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/nurfer_logo_3_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/1024.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/1024_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/zerron_pp_solo-crop-u9741.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/zerron_pp_solo-crop-u9741_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/whitw_pp.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/whitw_pp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/zerron_solo_blackjpg.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/zerron_solo_blackjpg_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/whitw_pp150x78.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/whitw_pp150x78_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/zerron_pp_solo-crop-u9761.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/zerron_pp_solo-crop-u9761_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/whitw_pp101x53.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/whitw_pp101x53_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/23.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/2_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/9.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/9_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/52.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/5_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/33.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/3_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/13.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/1_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/4_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/82.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/8_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/7.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/7_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/24.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/2_2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/72.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/7_2x2.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ens.ninja/web.html</loc>
+    <lastmod>2017-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ens_neo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ens_neo_2x.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://ens.ninja/app.html</loc>
+    <lastmod>2017-10-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ens_neo.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ens_neo_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ekinoks.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/ekinoks_2x.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/512x512.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/512x512_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/512_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/icon2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/icon_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x_2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/itunesartwork@2x_2x5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/icon3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/icon_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/login.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/login_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/signup.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/signup_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/store_games.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/store_games_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/store_matching%20jungle.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/store_matching%20jungle_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/profile.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://ens.ninja/images/profile_2x.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
