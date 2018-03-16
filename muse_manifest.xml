@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1521238781177">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ens.ninja" resolutions="1x,2x" timestamp="1521238974106">
   <folder name="fonts">
     <file name="montserrat-medium.woff" crc="442636581"/>
     <file name="montserrat-medium.eot" crc="196667494"/>
