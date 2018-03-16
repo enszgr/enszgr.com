@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://ens.ninja/index.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -14,7 +14,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/ens.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -314,7 +314,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/404.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -476,7 +476,7 @@
   </url>
   <url>
     <loc>http://ens.ninja/lyin.html</loc>
-    <lastmod>2018-02-21</lastmod>
+    <lastmod>2018-03-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
